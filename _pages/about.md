@@ -12,7 +12,7 @@ I'm a first-year Ph.D. student at the [Harbin Institute of Technology (Shenzhen)
 
 You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
 
-[CSDN](https://blog.csdn.net/jq_98)/[Email](mailto:15567518864@163.com) / [Github](https://github.com/QiuDi233) / [Wechat](https://github.com/JackieWang9811)
+[CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:15567518864@163.com) / [Github](https://github.com/QiuDi233) / [Wechat](https://github.com/JackieWang9811)
 
 A data-driven personal website
 ======
