@@ -17,8 +17,11 @@ You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
 Reaserach Intersts
 ======
 **EEG processing and parttern recognition**
+
 **Brain Computer Interface**
+
 **Large Language Model**
+
 **Computer Vision**
 
 
