@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student at the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), the School of Computer Science and Technology, now working with Prof. [zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU) ,where i worked with Prof. Wanzhong Chen. I obtained my bachelor's degree in the School of Automation in [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
+I'm a first-year Ph.D. student at the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), the School of Computer Science and Technology, now working with Prof.[zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where i worked with Prof.Wanzhong Chen. I obtained my bachelor's degree in the School of Automation in [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
-You can find my CV here: ../assets/Curriculum_Vitae.pdf.
+You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
 
 [CSDN](https://blog.csdn.net/jq_98)/[Email](mailto:15567518864@163.com) / [Github](https://github.com/QiuDi233) / [Wechat](https://github.com/JackieWang9811)
 
