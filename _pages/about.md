@@ -41,7 +41,7 @@ Working Experiments
 Awards
 ------
 * 2023 Excellent master 
-* 2022 ** National scholarship for Postgraduates**
+* 2022 **National scholarship for Postgraduates**
 * 
 *
 *
