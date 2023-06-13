@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "王嘉琪" 
-                     "Jiaqi Wang" 
+  name             : "Jiaqi Wang" 
   avatar           : "profile.png"
   bio              : "Ph.D. Student @HITSZ"
   location         : "Shenzhen, China"
