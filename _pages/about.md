@@ -25,8 +25,7 @@ Reaserach Intersts
 **Computer Vision**
 
 
-Publications
-------
+
 
 ---
 title: "Paper Title Number 1"
