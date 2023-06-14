@@ -31,6 +31,12 @@ Reaserach Intersts
 Publications
 ------
 
+{% include base_path %}
+
+{% for post in site.publications %}
+  {% include archive-single.html %}
+  <hr class="solid">
+{% endfor %}
 
 
 
