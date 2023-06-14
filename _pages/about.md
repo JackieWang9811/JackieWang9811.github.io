@@ -25,10 +25,8 @@ Reaserach Intersts
 **Computer Vision**
 
 
-
 Publications
 ======
-
 
 
 
