@@ -28,6 +28,7 @@ Reaserach Intersts
 
 Publications
 ======
+
 A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI
 
 
