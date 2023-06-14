@@ -26,7 +26,7 @@ Reaserach Intersts
 
 
 Publications
-======
+------
 
 ---
 title: "Paper Title Number 1"
