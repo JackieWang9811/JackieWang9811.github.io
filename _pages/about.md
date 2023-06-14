@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student at the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), the School of Computer Science and Technology, and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where i worked with Prof.Wanzhong Chen. I obtained my bachelor's degree in the School of Automation in [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
+I'm a first-year Ph.D. student at the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), the School of Computer Science and Technology, and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where i worked with Prof.Wanzhong Chen. I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
 You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
 
