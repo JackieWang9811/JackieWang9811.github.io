@@ -46,12 +46,13 @@ Working Experiments
 
 Awards
 ------
-* 2023 **QIANXIN Master Graduate Scholarship** - **only four candidates in JLU**
+* 2023 **QIANXIN Master Graduate Scholarship** - **only four candidates in Jilin University**
 * 2023 **Excellent Master Graduate of Jilin University** - Top 6%
 * 2022 **National scholarship for Postgraduates** - Top 6%
 * 2022 2nd Prize of Jilin University Excellent Postgraduate 
 * 2021 2nd Prize of Jilin University Excellent Postgraduate
 * 2021 **Excellent Postgraduate of Jilin University**  - Top 4%
+* 2021 3nd Prize of "Huawei cup" The 18th China Post-Graduate Mathematical Contest in Modeling 
 * 2021 Postgraduate Scholarship of Jilin University 
 * 2020 Postgraduate Scholarship of Jilin University
 
