@@ -33,7 +33,7 @@ Reaserach Intersts
 Publication
 ------
 
-  - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)] [[Code] Coming Soon]<br> 
+  - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)]<br> 
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li<br>
   **Biomedical Signal Processing and Control(BSPC)**
 
