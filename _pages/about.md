@@ -36,6 +36,8 @@ Publication
   - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)]<br> 
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li<br>
   **Biomedical Signal Processing and Control(BSPC)**
+
+    
   - **一种基于人体姿态控制的仿人机器人动作系统及控制方法（A human-like robot motion system and control method based on human body posture control）** [[Link](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT)]<br> 
   <ins>**王嘉琪（Jiaqi Wang**</ins>, 陈万忠（Wanzhong Chen）, 郑骁（Xiao Zheng）<br>
   **Granted Chinese Invention Patent**
