@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JackieWang's Homepage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,9 @@ redirect_from:
 About me
 ======
 
-I'm an incoming Ph.D. student in Computer Science and Technology joint-educated by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.Wanzhong Chen. I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
+Hi ! I'm **Jiaqi Wang**.I'm an incoming Ph.D. student in Computer Science and Technology joint-educated by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). 
+I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.Wanzhong Chen. 
+I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
 You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
 
@@ -28,17 +30,12 @@ Reaserach Intersts
 
 **Computer Vision**
 
-Publications
+Publication
 ------
 
-{% include base_path %}
-
-{% for post in site.publications %}
-  {% include archive-single.html %}
-  <hr class="solid">
-{% endfor %}
-
-
+  - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)] [[Code] Coming Soon]<br> 
+  <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li<br>
+  **Biomedical Signal Processing and Control(BSPC)**
 
 Working Experiments
 ------
