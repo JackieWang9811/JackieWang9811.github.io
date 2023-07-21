@@ -18,7 +18,7 @@ I obtained my bachelor's degree in the School of Automation at [Northeast Electr
 
 You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
 
-[CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:15567518864@163.com) / [Github](https://github.com/JackieWang9811) / [Wechat](../images/wechat.png)
+[CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:15567518864@163.com) / [Github](https://github.com/JackieWang9811) / [Wechat](../images/wechat.png) 
 
 Reaserach Intersts
 ------
