@@ -16,7 +16,7 @@ Hi ! I'm **Jiaqi Wang**. I'm an incoming Ph.D. student in Computer Science and T
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.Wanzhong Chen. 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
-You can find my CV here: [Jiaqi Wang's CV](../assets/Curriculum_Vitae_CN.pdf).
+You can find my CV here: [Jiaqi Wang's CV](../assets/CV_CN.pdf).
 
 [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:15567518864@163.com) / [Github](https://github.com/JackieWang9811) / [Wechat](../images/wechat.png) 
 
