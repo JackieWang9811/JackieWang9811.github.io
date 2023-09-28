@@ -22,13 +22,10 @@ You can find my CV here: [Jiaqi Wang's CV](../assets/CV_zn.pdf).
 
 Reaserach Intersts
 ------
-**EEG processing and parttern recognition**
-
-**Brain Computer Interface**
-
-**Large Language Model**
-
-**Computer Vision**
+**Brain Computer Interface(BCI)**
+**Large Language Model(LLM)**
+**Brain-inspired Intelligence**
+**Spiking Neural Network(SNN)**
 
 Publication
 ------
