@@ -26,7 +26,7 @@ Reaserach Intersts
 
 **Large Language Model(LLM)**
 
-**Brain-inspired Intelligence**
+**Brain-inspired Intelligence(BI)**
 
 **Spiking Neural Network(SNN)**
 
