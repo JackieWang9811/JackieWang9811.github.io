@@ -35,16 +35,16 @@ Publication
 ------
   - **Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder** [[Paper](https://arxiv.org/abs/2402.17433)]<br> 
   <ins>**Jiaqi Wang**</ins>,  Zhenxi Song,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang<br>
-  **ArXiv 2024.02**
+  **_ArXiv 2024.02_**
 
   - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)]<br> 
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li<br>
-  **Biomedical Signal Processing and Control(BSPC) 2023.01**
+  **_Biomedical Signal Processing and Control(BSPC) 2023.01_**
 
     
   - **A human-like robot motion system and control method based on human body posture control** [[Link](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT)]<br> 
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
-  **Granted Chinese Invention Patent 2022.08**
+  **_Granted Chinese Invention Patent 2022.08_**
 
 Working Experiments
 ------
