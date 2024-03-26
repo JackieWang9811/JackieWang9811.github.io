@@ -58,7 +58,7 @@ Awards
 * 2022 2nd Prize of Jilin University Excellent Postgraduate 
 * 2021 2nd Prize of Jilin University Excellent Postgraduate
 * 2021 **Excellent Postgraduate of Jilin University**  - Top 4%
-* 2021 3nd Prize of "Huawei cup" The 18th China Post-Graduate Mathematical Contest in Modeling 
+* 2021 3nd Prize of "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling 
 * 2021 Postgraduate Scholarship of Jilin University 
 * 2020 Postgraduate Scholarship of Jilin University
 
