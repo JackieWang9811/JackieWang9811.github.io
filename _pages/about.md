@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-Hi ! I'm **Jiaqi Wang**. I'm a first year Ph.D. student in Computer Science and Technology joint-educated by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). 
+Hi ! I'm **Jiaqi Wang**. I'm a first year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). 
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
@@ -32,6 +32,9 @@ Reaserach Intersts
 
 Publication
 ------
+  - **Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder** [[Paper](https://arxiv.org/abs/2402.17433)]<br> 
+  <ins>**Jiaqi Wang**</ins>,  Zhenxi Song,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang<br>
+  **ArXiv**
 
   - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)]<br> 
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li<br>
