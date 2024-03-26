@@ -22,13 +22,14 @@ You can find my CV here: [Jiaqi Wang's CV](../assets/CV_zn.pdf).
 
 Reaserach Intersts
 ------
+**Spiking Neural Network(SNN)**
+
+**Brain-inspired Intelligence(BI)**
+
 **Brain Computer Interface(BCI)**
 
 **Large Language Model(LLM)**
 
-**Brain-inspired Intelligence(BI)**
-
-**Spiking Neural Network(SNN)**
 
 Publication
 ------
