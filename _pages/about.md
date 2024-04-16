@@ -33,6 +33,8 @@ Reaserach Intersts
 
 Publication
 ------
+  - **Preview： A new work about the SNN is coming soon !**
+    
   - **Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder** [[Paper](https://arxiv.org/abs/2402.17433)]<br> 
   <ins>**Jiaqi Wang**</ins>,  Zhenxi Song,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang<br>
   **_ArXiv 2024.02_**
