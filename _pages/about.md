@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-Hi ! I'm **Jiaqi Wang**. I'm a first year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang). 
+Hi ! I'm **Jiaqi Wang**. I'm a first year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/)(HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/)(PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) & Prof.[Zhengyu Ma](https://dblp.org/pid/242/2942.html). 
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
