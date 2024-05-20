@@ -54,7 +54,7 @@ Working Experiments
 
 Awards
 ------
-* 2023 **QIANXIN Master Graduate Scholarship** - **only four awardees in Jilin University**
+* 2023 **Qianxin Social Scholarship** - **only four awardees in Jilin University**
 * 2023 **Excellent Master Graduate of Jilin University** - Top 6%
 * 2022 **National scholarship for Postgraduates** - Top 6%
 * 2022 2nd Prize of Jilin University Excellent Postgraduate 
