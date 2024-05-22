@@ -65,5 +65,8 @@ Awards
 * 2021 3nd Prize of "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling 
 * 2021 Postgraduate Scholarship of Jilin University 
 * 2020 Postgraduate Scholarship of Jilin University
+* 2020 Outstanding Graduate of NEEPU
+* 2019 First-class Scholarship for Outstanding Students of NEEPU
+* 2019 Outstanding Student of NEEPU
 
 
