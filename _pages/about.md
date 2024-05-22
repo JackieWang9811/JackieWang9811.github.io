@@ -16,7 +16,7 @@ Hi ! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a 
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/)(NEEPU).
 
-I have experience in reviewing academic journals and conferences, including ACM MM, IEEE TNSRE, IEEE TIM, and ICASSP, etc.
+My first-authored research has been published in conferences and journals like ACL and BSPC. I have experience in reviewing academic journals and conferences, including ACM MM, IEEE TNSRE, IEEE TIM, and ICASSP, etc.
 
 You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf). 
 
