@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
-About Me
-======
+# 🙋‍♂️ About Me
 
-Hi ! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a first year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) & Prof.[Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate). 
+Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a second-year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) & Prof.[Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate). 
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU), where I worked with Associate Prof.Xueqiang Shen.
 
@@ -24,23 +23,25 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 # 💡Research Interests
 
-**Spiking Neural Network(SNN)**
+- Spiking Neural Network(SNN)
 
-**Brain-inspired Intelligence(BI)**
+- Brain-inspired Intelligence(BI)
 
-**Brain Computer Interface(BCI)**
+- Brain-Computer Interface(BCI)
 
-**Large Language Model(LLM)**
+- Large Language Models(LLMs) and Large Speech Models (LSMs)
 
 
 # 📝 Publications 
 
   - **Preview： A new work about the SNN is coming soon !**
   
-  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433), **<u>Jiaqi Wang</u>**,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
+  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
+  **<u>Jiaqi Wang</u>**,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**
 
-  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
+  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
+  <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
   **_Biomedical Signal Processing and Control(BSPC) 2023.01_**
 
     
@@ -48,12 +49,12 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
   **_Granted Chinese Invention Patent 2022.08_**
 
-Working Experiments
-------
+# 🏢 Work Experience
+
 * Jun 2022 - Aug 2022, AI Engineer Intern, **Huawei ICT(Optic Line)**,  3D Computer Vision & FTTR
 
-Awards
-------
+# ⭐ Awards
+
 * 2023 **Qianxin Social Scholarship** - **only four awardees in Jilin University**
 * 2023 **Excellent Master Graduate of Jilin University** - Top 6%
 * 2022 **National scholarship for Postgraduates** - Top 6%
