@@ -22,7 +22,7 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com) / [Github](https://github.com/JackieWang9811) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) 
 
-Reaserach Intersts
+#💡Research Interests
 ------
 **Spiking Neural Network(SNN)**
 
@@ -33,11 +33,10 @@ Reaserach Intersts
 **Large Language Model(LLM)**
 
 
-Publication
+# 📝 Publications 
 ------
-  - **Preview： A new work about the SNN is coming soon !**
-    
-  - **Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder** [[Paper](https://arxiv.org/abs/2402.17433)]<br> 
+  - **Preview： A new work about the SNN is coming soon !**    
+  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Preprint</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433)]
   <ins>**Jiaqi Wang**</ins>,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**
 
