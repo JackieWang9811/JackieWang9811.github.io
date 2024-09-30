@@ -40,8 +40,7 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433), **<u>Jiaqi Wang</u>**,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**
 
-  - **A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI** [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809422007066)]<br> 
-  <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
+  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
   **_Biomedical Signal Processing and Control(BSPC) 2023.01_**
 
     
