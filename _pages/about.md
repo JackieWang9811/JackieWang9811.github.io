@@ -67,7 +67,7 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 * 2019 First-class Scholarship for Outstanding Students of NEEPU
 * 2019 Outstanding Student of NEEPU
 
-# 🌐 Visitors
+# 🌐 Welcome Visitors
 
 <a href="https://clustrmaps.com/site/1c1la" title="Visit tracker">
   <img src="//www.clustrmaps.com/map_v2.png?d=lLNo_aaNpQ7KFqBhrFSg8PbncZ0gy3O4oIjQPr1Os&cl=ffffff" />
