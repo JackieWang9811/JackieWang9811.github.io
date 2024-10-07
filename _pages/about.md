@@ -69,6 +69,4 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 # 🌐 Welcome Visitors
 
-<a href="https://clustrmaps.com/site/1c1la" title="Visit tracker">
-  <img src="//www.clustrmaps.com/map_v2.png?d=lLNo_aaNpQ7KFqBhrFSg8PbncZ0gy3O4oIjQPr1Os&cl=ffffff" />
-</a>
+<a href="https://clustrmaps.com/site/1c1la" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=lLNo_aaNpQ7KFqBhrFSGp8PbncZ0gy3O4oljQP1rOsk&co=2d78ad&ct=ffffff" /></a>
