@@ -31,6 +31,9 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 - Large Language Models(LLMs) and Large Speech Models (LSMs)
 
+# 🤝 Call for Collaboration
+
+I am eager to join forces with researchers in advancing neural network technologies! My focus areas include **Spiking Neural Networks (SNN)**, time series representation learning, and pioneering decoding techniques for **speech and EEG** signals. I warmly welcome colleagues and research teams passionate about these fields to connect and explore collaboration opportunities!
 
 # 📝 Publications 
 
