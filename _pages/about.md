@@ -40,11 +40,11 @@ I am eager to join forces with researchers in advancing neural network technolog
   - **Preview： A new work about the SNN is coming soon !**
 
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv 2024</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
-  **<u>Jiaqi Wang</u>**,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma *, Zhiguo Zhang * <br>
+   <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma*, Zhiguo Zhang* <br>
   **_ArXiv 2024.12_**
   
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
-  **<u>Jiaqi Wang</u>**,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
+   <ins>**Jiaqi Wang**</ins>,  Zhenxi Song*,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang* <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**
 
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
