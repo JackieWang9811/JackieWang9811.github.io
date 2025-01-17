@@ -15,7 +15,7 @@ Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a s
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU), where I worked with Associate Prof.Xueqiang Shen.
 
-My first-authored research has been published in conferences and journals like ACL and BSPC. I have experience in reviewing academic journals and conferences, including ACM MM, IEEE TNSRE, IEEE TIM, BSPC, and ICASSP, and I will serve as an invited reviewer for ICLR 2025.
+My first-authored research has been published in conferences and journals like ACL and BSPC. I have experience in reviewing academic journals and conferences, including ICLR 2025, ACM MM2024, IEEE TNSRE, IEEE TIM, BSPC, and ICASSP2023, and I will serve as an invited reviewer for ICME2025.
 
 You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf). 
 
@@ -38,6 +38,10 @@ I am eager to join forces with researchers in advancing neural network technolog
 # 📝 Publications 
 
   - **Preview： A new work about the SNN is coming soon !**
+
+  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv 2024</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
+  **<u>Jiaqi Wang</u>**,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma *, Zhiguo Zhang * <br>
+  **_ArXiv 2024.12_**
   
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
   **<u>Jiaqi Wang</u>**,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
