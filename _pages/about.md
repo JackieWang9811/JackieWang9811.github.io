@@ -15,7 +15,7 @@ Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a s
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU), where I worked with Associate Prof.Xueqiang Shen.
 
-My first-authored research has been published in conferences and journals like ACL and BSPC. I have experience in reviewing academic journals and conferences, including ICLR 2025, ACM MM2024, IEEE TNSRE, IEEE TIM, BSPC, and ICASSP2023, and I will serve as an invited reviewer for ICME2025.
+My first-authored research has been published in conferences and journals like ACL and BSPC. I have experience in reviewing academic journals and conferences, including ICLR 2025, ACM MM2024, IEEE TNSRE, IEEE TIM, BSPC, and ICASSP2023, and I will serve as an invited reviewer for ICME2025 and ACL 2025.
 
 You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf). 
 
