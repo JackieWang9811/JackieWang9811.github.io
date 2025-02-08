@@ -104,20 +104,6 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 Here are some moments and highlights of my journey:
 
-<style>
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Adjust this for the number of columns */
-    gap: 10px;
-  }
-
-  .gallery-image {
-    width: 100%;
-    height: auto;
-    object-fit: cover; /* Ensures the image fills the space without distortion */
-    border-radius: 8px; /* Optional: Adds rounded corners */
-  }
-</style>
 
 <div class="gallery">
   <img src="../images/page1.jpg" alt="Image 1" class="gallery-image">
@@ -126,6 +112,20 @@ Here are some moments and highlights of my journey:
   <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
 </div>
 
+<style>
+  .gallery {
+    display: flex;
+    overflow-x: scroll;
+    gap: 20px;
+    padding: 20px;
+  }
+  .gallery-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+</style>
 
 
 
