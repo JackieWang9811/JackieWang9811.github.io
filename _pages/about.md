@@ -19,24 +19,6 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com) / [Github](https://github.com/JackieWang9811) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) 
 
-# 📚 Review Experience
-I have experience in reviewing for high-impact journals and conferences, including:
-
-Conferences:
-- ICLR 2025
-- ACM MM 2024
-- ICASSP 2023
-Upcoming:
-
-- Invited reviewer for ICME 2025
-- Invited reviewer for ACL 2025 ARR (Feb)
-
-Journals:
-- IEEE TNSRE
-- IEEE TIM
-- BSPC
-
-
 
 # 💡Research Interests
 
@@ -68,9 +50,23 @@ I am eager to join forces with researchers in advancing neural network technolog
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
   **_Biomedical Signal Processing and Control(BSPC) 2023.01_**
 
-    
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">CN Invention Patent</span> [A human-like robot motion system and control method based on human body posture control](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
   **_Granted Chinese Invention Patent 2022.08_**
+
+# 📚 Review Experience
+I have experience in reviewing for high-impact journals and conferences, including:
+
+Conferences:
+- ICLR 2025
+- ACM MM 2024
+- ICASSP 2023
+- Invited reviewer for ICME 2025
+- Invited reviewer for ACL 2025 ARR (Feb)
+
+Journals:
+- IEEE TNSRE
+- IEEE TIM
+- BSPC
 
 # 🔭 Open Source Projects
 
@@ -81,6 +77,7 @@ I am eager to join forces with researchers in advancing neural network technolog
 A paper list of spiking neural networks, including papers, codes, and related websites.
 
 If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
+
 
 # 🏢 Work Experience
 
