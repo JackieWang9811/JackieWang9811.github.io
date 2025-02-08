@@ -100,6 +100,33 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 * 2019 First-class Scholarship for Outstanding Students of NEEPU
 * 2019 Outstanding Student of NEEPU
 
+# 📸 Photo Gallery
+
+Here are some moments and highlights of my journey:
+
+<div class="gallery">
+  <img src="../images/photo1.jpg" alt="Image 1" class="gallery-image">
+  <img src="../images/photo2.jpg" alt="Image 2" class="gallery-image">
+  <img src="../images/photo3.jpg" alt="Image 3" class="gallery-image">
+  <img src="../images/photo4.jpg" alt="Image 4" class="gallery-image">
+  <img src="../images/photo5.jpg" alt="Image 5" class="gallery-image">
+</div>
+
+<style>
+  .gallery {
+    display: flex;
+    overflow-x: scroll;
+    gap: 20px;
+    padding: 20px;
+  }
+  .gallery-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+</style>
+
 # 🌐 Welcome Visitors
 
 <a href="https://clustrmaps.com/site/1c1la" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=lLNo_aaNpQ7KFqBhrFSGp8PbncZ0gy3O4oljQP1rOsk&co=2d78ad&ct=ffffff" /></a>
