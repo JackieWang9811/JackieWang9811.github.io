@@ -6,9 +6,6 @@ main:
   - title: "Research Interests"
     url: "/#research-interests"
 
-  - title: "Call for Collaboration"
-    url: "/#call-for-collaboration"
-
   - title: "Publications"
     url: "/#-publications"
 
@@ -17,13 +14,12 @@ main:
 
   - title: "Open Source Projects"
     url: "/#-open-source-projects"
-
-  - title: "Photo Gallery"
-    url: "/#-photo-gallery"
   
   - title: "Work Experience"
     url: "/#-work-experience"
 
   - title: "Awards"
     url: "/#-awards"
-    
+
+  - title: "Photo Gallery"
+    url: "/#-photo-gallery"
