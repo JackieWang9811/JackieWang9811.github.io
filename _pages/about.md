@@ -40,12 +40,14 @@ I am eager to join forces with researchers in advancing neural network technolog
 
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv 2024</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
    <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma *, Zhiguo Zhang * <br>
-  **_ArXiv 2024.12_**
-  
+  **_ArXiv 2024.12_**  
+  **Code:** [Link](https://github.com/JackieWang9811/SpikeSCR)
+
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
    <ins>**Jiaqi Wang**</ins>,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
-  **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**
-
+  **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**  
+  **Code:** [Link](https://github.com/JackieWang9811/CET-MAE)
+    
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
   **_Biomedical Signal Processing and Control(BSPC) 2023.01_**
@@ -54,16 +56,16 @@ I am eager to join forces with researchers in advancing neural network technolog
   **_Granted Chinese Invention Patent 2022.08_**
 
 # 📚 Review Experience
-I have experience in reviewing for high-impact journals and conferences, including:
+I have experience in reviewing for high-impact journals and conferences, including:  
 
-Conferences:
+**Conferences:**  
 - ICLR 2025
 - ACM MM 2024
 - ICASSP 2023
 - Invited reviewer for ICME 2025
 - Invited reviewer for ACL 2025 ARR (Feb)
-
-Journals:
+  
+**Journals:**
 - IEEE TNSRE
 - IEEE TIM
 - BSPC
