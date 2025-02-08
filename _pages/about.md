@@ -105,11 +105,10 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 Here are some moments and highlights of my journey:
 
 <div class="gallery">
-  <img src="../images/photo1.jpg" alt="Image 1" class="gallery-image">
-  <img src="../images/photo2.jpg" alt="Image 2" class="gallery-image">
-  <img src="../images/photo3.jpg" alt="Image 3" class="gallery-image">
-  <img src="../images/photo4.jpg" alt="Image 4" class="gallery-image">
-  <img src="../images/photo5.jpg" alt="Image 5" class="gallery-image">
+  <img src="../images/page1.jpg" alt="Image 1" class="gallery-image">
+  <img src="../images/page2.jpg" alt="Image 2" class="gallery-image">
+  <img src="../images/page3.jpg" alt="Image 3" class="gallery-image">
+  <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
 </div>
 
 <style>
