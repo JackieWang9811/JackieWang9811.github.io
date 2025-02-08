@@ -104,27 +104,14 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 Here are some moments and highlights of my journey:
 
-<div class="gallery">
-  <img src="../images/page1.jpg" alt="Image 1" class="gallery-image">
-  <img src="../images/page2.jpg" alt="Image 2" class="gallery-image">
-  <img src="../images/page3.jpg" alt="Image 3" class="gallery-image">
-  <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="../images/page1.jpg" alt="Image 1" style="width: 23%; height: auto; object-fit: cover; border-radius: 8px;">
+  <img src="../images/page2.jpg" alt="Image 2" style="width: 20%; height: auto; object-fit: cover; border-radius: 8px;">
+  <img src="../images/page3.jpg" alt="Image 3" style="width: 23%; height: auto; object-fit: cover; border-radius: 8px;">
+  <img src="../images/page4.jpg" alt="Image 4" style="width: 30%; height: auto; object-fit: cover; border-radius: 8px;">
 </div>
 
-<style>
-  .gallery {
-    display: flex;
-    overflow-x: scroll;
-    gap: 20px;
-    padding: 20px;
-  }
-  .gallery-image {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 10px;
-  }
-</style>
+
 
 # 🌐 Welcome Visitors
 
