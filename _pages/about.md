@@ -15,11 +15,28 @@ Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a s
 I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). 
 I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU), where I worked with Associate Prof.Xueqiang Shen.
 
-My first-authored research has been published in conferences and journals like ACL and BSPC. I have experience in reviewing academic journals and conferences, including ICLR 2025, ACM MM2024, IEEE TNSRE, IEEE TIM, BSPC, and ICASSP2023, and I will serve as an invited reviewer for ICME2025 and ACL 2025 ARR Feb.
-
 You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf). 
 
 [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com) / [Github](https://github.com/JackieWang9811) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) 
+
+# 📚 Review Experience
+I have experience in reviewing for high-impact journals and conferences, including:
+
+Conferences:
+- ICLR 2025
+- ACM MM 2024
+- ICASSP 2023
+Upcoming:
+
+- Invited reviewer for ICME 2025
+- Invited reviewer for ACL 2025 ARR (Feb)
+
+Journals:
+- IEEE TNSRE
+- IEEE TIM
+- BSPC
+
+
 
 # 💡Research Interests
 
@@ -54,6 +71,16 @@ I am eager to join forces with researchers in advancing neural network technolog
     
   - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">CN Invention Patent</span> [A human-like robot motion system and control method based on human body posture control](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
   **_Granted Chinese Invention Patent 2022.08_**
+
+# 🔭 Open Source Projects
+
+🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+A paper list of spiking neural networks, including papers, codes, and related websites.
+
+If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
 
 # 🏢 Work Experience
 
