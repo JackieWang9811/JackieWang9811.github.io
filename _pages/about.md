@@ -36,7 +36,7 @@ I am eager to join forces with researchers in advancing neural network technolog
 
 # 📝 Publications 
 
-  - **Preview： Two new works about the SNN is coming soon !**
+  - **Preview： Two new works about the SNN are coming soon !**
 
  - **Preview： Two works about the SNN are under review !**
 
