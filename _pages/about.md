@@ -74,13 +74,13 @@ I have experience in reviewing for high-impact journals and conferences, includi
 
 # 🔭 Open Source Projects
 
-🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) 
+🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)  (500 stars)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A paper list of spiking neural networks, including papers, codes, and related websites.
+  **A paper list of spiking neural networks, including papers, codes, and related websites.**
 
-If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
+  If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
 
 
 # 🏢 Work Experience
