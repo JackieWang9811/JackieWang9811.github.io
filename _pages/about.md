@@ -17,8 +17,7 @@ I obtained my bachelor's degree in the School of Automation at [Northeast Electr
 
 You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf). 
 
-[CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com) / [Github](https://github.com/JackieWang9811) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) 
-
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /  [Github](https://github.com/JackieWang9811) / [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com)
 
 # 💡Research Interests
 
