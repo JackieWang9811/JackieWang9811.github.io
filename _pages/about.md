@@ -26,7 +26,6 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 - Brain-inspired Intelligence(BI)
 
 - Brain-Computer Interface(BCI)
-
 - Temporal Modeling
 
 - Large Language Models (LLMs)
