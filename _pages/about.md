@@ -65,7 +65,8 @@ I have experience in reviewing for high-impact journals and conferences, includi
 - ICASSP 2023
 - Invited reviewer for ICME 2025
 - Invited reviewer for ACL 2025 ARR (Feb)
-  
+- Invited reviewer for ACL 2025 ARR (May)
+- Invited reviewer for ACL 2025 ARR (July)
 **Journals:**
 - IEEE TNSRE
 - IEEE TIM
