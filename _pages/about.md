@@ -27,7 +27,9 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 - Brain-Computer Interface(BCI)
 
-- Large Language Models(LLMs) and Large Speech Models (LSMs)
+- Temporal Modeling
+
+- Large Language Models (LLMs)
 
 # 🤝 Call for Collaboration
 
