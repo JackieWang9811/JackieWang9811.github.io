@@ -33,25 +33,26 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 I am eager to join forces with researchers in advancing neural network technologies! My focus areas include **Spiking Neural Networks (SNN)**, time series representation learning, and pioneering decoding techniques for **speech and EEG** signals. I warmly welcome colleagues and research teams passionate about these fields to connect and explore collaboration opportunities!
 
 # 📝 Publications 
+
 - **Preview: One new work about the SNN modeling is coming soon !**
 - **Preview: Three works about the SNN modeling are under review !**
 - **Preview: Four collaborative works are currently under review!**
 
-  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv 2024</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv 2024</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
    <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma *, Zhiguo Zhang * <br>
   **_ArXiv 2024.12_**  
   **Code:** [Link](https://github.com/JackieWang9811/SpikeSCR)
 
-  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
    <ins>**Jiaqi Wang**</ins>,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL2024 (Main Conference)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/CET-MAE)
     
-  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
+ - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
   **_Biomedical Signal Processing and Control(BSPC) 2023.01_**
 
-  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">CN Invention Patent</span> [A human-like robot motion system and control method based on human body posture control](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
+ - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">CN Invention Patent</span> [A human-like robot motion system and control method based on human body posture control](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
   **_Granted Chinese Invention Patent 2022.08_**
 
 # 📚 Review Experience
