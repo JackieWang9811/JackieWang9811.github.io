@@ -21,8 +21,8 @@ You can find my CV here: [Jiaqi Wang's CV (CN) ](../assets/CV_zn.pdf).
 
 # 💡Research Interests
 
-- Spiking Neural Network(SNN)
-- Brain-Computer Interface(BCI)
+- Spiking Neural Network (SNN)
+- Brain-Computer Interface (BCI)
 - Temporal and Sequential Modeling
 - Speech and Language Models
 
