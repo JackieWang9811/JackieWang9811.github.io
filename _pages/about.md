@@ -59,6 +59,8 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 I have experience in reviewing for high-impact journals and conferences, including:  
 
 **Conferences:**  
+
+- Invited reviewer for ICLR 2026 
 - Program Committee for AAAI 2026
 - Invited reviewer for ACL 2025 ARR (July)
 - ICLR 2025
