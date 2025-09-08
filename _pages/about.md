@@ -73,6 +73,7 @@ I have experience in reviewing for high-impact journals and conferences, includi
 
   
 **Journals:**
+- Invited reviewer for Neuromorphic Computing and Engineering (NCE)
 - IEEE TNSRE
 - IEEE TIM
 - BSPC
