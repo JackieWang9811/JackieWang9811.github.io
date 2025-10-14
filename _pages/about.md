@@ -63,7 +63,7 @@ I have experience in reviewing for high-impact journals and conferences, includi
 - Invited reviewer for ACL 2025 ARR (October)
 - Invited reviewer for ICLR 2026 
 - Program Committee for AAAI 2026
-- Invited reviewer for ACL 2025 ARR (July)
+- ACL 2025 ARR (July)
 - ICLR 2025
 - ACL 2025 ARR (Feb)
 - ACL 2025 ARR (May)
