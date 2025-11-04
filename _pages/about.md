@@ -37,16 +37,16 @@ I am eager to join forces with researchers in advancing neural network technolog
 S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://arxiv.org/abs/2508.05164),
    <ins>**Jiaqi Wang**</ins>, Zhengyu Ma *, Xiongri Shen, Chenlin Zhou, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang * <br>
   **_ArXiv 2025.08  ➡️ Accepted by NeurIPS 2025 (Main Track)!_** 
-
+   **Code:** [Link](https://github.com/JackieWang9811/S2M-Former) (To be released by the end of 2025.)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Neural Networks</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
    <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma *, Zhiguo Zhang * <br>
   **_ArXiv 2024.12  ➡️ Accepted by Neural Networks (2025.10)!_**  
-  **Code:** [Link](https://github.com/JackieWang9811/SpikeSCR)
+  **Code:** [Link](https://github.com/JackieWang9811/SpikeSCR) (To be released by the end of 2025.)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
    <ins>**Jiaqi Wang**</ins>,  Zhenxi Song *,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang * <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL 2024 (Main Conference)!_**  
-  **Code:** [Link](https://github.com/JackieWang9811/CET-MAE)
+  **Code:** [Link](https://github.com/JackieWang9811/CET-MAE) 
     
  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
