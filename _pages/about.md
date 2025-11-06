@@ -63,7 +63,7 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 
 
 # 📚 Review Experience
-I have experience in reviewing for high-impact journals and conferences, including:  
+I have experience in reviewing for high-impact AI conferences and journals, including:  
 
 **Conferences:**  
 
