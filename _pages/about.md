@@ -33,6 +33,11 @@ I am eager to join forces with researchers in advancing neural network technolog
 
 # 📝 Publications 
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;"> AAAI 2026</span>  [
+SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://openreview.net/forum?id=ExUxUO3YgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
+   <ins>**Jiaqi Wang**</ins>, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhengyu Ma *, Zhiguo Zhang *<br>
+  **_Accepted by AAAI 2026 (Main Track)!_**  
+  **Code:** [Link](https://github.com/JackieWang9811/SpikCommander)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;"> NeurIPS 2025</span> [
 S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://arxiv.org/abs/2508.05164),
    <ins>**Jiaqi Wang**</ins>, Zhengyu Ma *, Xiongri Shen, Chenlin Zhou, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang * <br>
@@ -56,6 +61,9 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
   **_Granted Chinese Invention Patent 2022.08_**
 
 📖 Co-authored Publications
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026 Oral</span> [Spikingformer: A Key Foundation Model for Spiking Neural Networks](https://openreview.net/forum?id=SmZTeHYlCa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
+ Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, Jiaqi Wang, Zhengyu Ma, Huihui Zhou, Yonghong Tian 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation](https://arxiv.org/abs/2410.14971),
  Jilong Li, Zhenxi Song, <ins>**Jiaqi Wang**</ins>, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">MICCAI 2025</span> [Thread the Needle: Genomics-Guided Prompt-Bridged Attention Model for Survival Prediction of Glioma Based on MRI Images](https://arxiv.org/abs/2410.14971),
