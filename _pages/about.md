@@ -34,7 +34,7 @@ I am eager to join forces with researchers in advancing neural network technolog
 # 📝 Publications 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;"> AAAI 2026</span>  [
-SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://openreview.net/forum?id=ExUxUO3YgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
+SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1)),
    <ins>**Jiaqi Wang**</ins>, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhengyu Ma *, Zhiguo Zhang *<br>
   **_Accepted by AAAI 2026 (Main Track)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/SpikCommander)
