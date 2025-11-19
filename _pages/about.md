@@ -13,28 +13,37 @@ redirect_from:
 ## 🙋‍♂️ About Me
 {: #about-me .section-title }
 
-Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) & Prof.[Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate). 
+Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology jointly affiliated with the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ) and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), advised by Prof. [Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) and Prof. [Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate).
 
-I obtained my master's degree in the School of Communication Engineering at [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof.[Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my bachelor's degree in the School of Automation at [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU), where I worked with Associate Prof. Xueqiang Shen.
+I received my M.Eng. degree in Communication Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
 
-You can find my CV here: [Jiaqi Wang's CV (CN)](../assets/CV_zn.pdf).
+You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/CV_zn.pdf)**.
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /  [Github](https://github.com/JackieWang9811) / [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com)
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /
+[Github](https://github.com/JackieWang9811) /
+[CSDN](https://blog.csdn.net/jq_98) /
+[Email](mailto:mhwjq1998@gmail.com)
 
+---
 
-## 💡 Research Interests
-{: #research-interests .section-title }
+### 🔍 Research Interests
 
-- Spiking Neural Network (SNN)
-- Brain-Computer Interface (BCI)
-- Temporal and Sequential Modeling
-- Speech and Language Models
+My research mainly focuses on:
 
+- **Spiking Neural Networks (SNN)**
+- **Brain–Computer Interface (BCI)**
+- **Temporal & Sequential Modeling**
+- **Speech and Language Models**
+- Efficient neural architectures and neuromorphic learning paradigms
 
-## 🤝 Call for Collaboration
-{: #call-for-collaboration .section-title }
+---
 
-I am eager to join forces with researchers in advancing neural network technologies! My focus areas include **Spiking Neural Networks (SNN)**, time series representation learning, and pioneering decoding techniques for **speech and EEG** signals. I warmly welcome colleagues and research teams passionate about these fields to connect and explore collaboration opportunities!
+### 🤝 Call for Collaboration
+
+I am passionate about advancing neuromorphic intelligence and decoding technologies for **speech** and **EEG** signals.  
+If you are working on SNNs, BCI decoding, temporal modeling, or efficient neural architectures, I would be very happy to collaborate!
+
+Feel free to reach out via email. 😊
 
 
 ## 📝 Publications 
