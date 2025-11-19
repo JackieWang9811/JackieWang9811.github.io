@@ -17,14 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  
-    {% if author.research_interests %}
-      <div class="author__interests">
-        {% for item in author.research_interests %}
-          <div class="interest-item">{{ item }}</div>
-        {% endfor %}
-      </div>
-    {% endif %}
+  </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
