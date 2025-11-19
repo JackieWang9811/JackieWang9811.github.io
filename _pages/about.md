@@ -213,7 +213,7 @@ Here are some moments and highlights of my journey:
 body, .page__content {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.7;
 }
 
@@ -275,7 +275,7 @@ body, .page__content {
 }
 
 .edu-text {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.4;
 }
 
