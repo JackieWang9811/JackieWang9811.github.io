@@ -29,7 +29,6 @@ You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/CV_zn.pdf)**.
 ### 🔍 Research Interests
 
 My research mainly focuses on:
-
 - **Spiking Neural Networks (SNN)**
 - **Brain–Computer Interface (BCI)**
 - **Temporal & Sequential Modeling**
@@ -227,7 +226,7 @@ Here are some moments and highlights of my journey:
 body, .page__content {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif;
-  font-size: 19px;
+  font-size: 17px;
   line-height: 1.7;
 }
 
@@ -289,7 +288,7 @@ body, .page__content {
 }
 
 .edu-text {
-  font-size: 19px;
+  font-size: 17px;
   line-height: 1.4;
 }
 
