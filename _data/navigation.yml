@@ -3,13 +3,13 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research Interests"
+  - title: "Research"
     url: "/#research-interests"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Academic Service"
+  - title: "Services"
     url: "/#-review-experience"
 
   - title: "Projects"
