@@ -146,6 +146,7 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
     flex-direction: column;
     gap: 20px;
     margin-top: 20px;
+    margin-bottom: 35px; 
   }
   .edu-item {
     display: flex;
@@ -162,6 +163,8 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
     line-height: 1.4;
   }
 </style>
+
+
 
 
 # 🏢 Work Experience
