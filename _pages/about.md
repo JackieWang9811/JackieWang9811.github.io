@@ -11,6 +11,7 @@ redirect_from:
 <section id="about-me" class="section-block" markdown="1">
 
 # 🙋‍♂️ About Me
+{: #about-me .section-block }
 
 Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) & Prof.[Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate). 
 
@@ -20,26 +21,20 @@ You can find my CV here: [Jiaqi Wang's CV (CN)](../assets/CV_zn.pdf).
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /  [Github](https://github.com/JackieWang9811) / [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com)
 
-</section>
-
-<section id="research-interests" class="section-block" markdown="1">
 
 # 💡 Research Interests
+{: #research-interests .section-block }
 
 - Spiking Neural Network (SNN)
 - Brain-Computer Interface (BCI)
 - Temporal and Sequential Modeling
 - Speech and Language Models
 
-</section>
-
-<section id="call-for-collaboration" class="section-block" markdown="1">
 
 # 🤝 Call for Collaboration
+{: #call-for-collaboration .section-block }
 
 I am eager to join forces with researchers in advancing neural network technologies! My focus areas include **Spiking Neural Networks (SNN)**, time series representation learning, and pioneering decoding techniques for **speech and EEG** signals. I warmly welcome colleagues and research teams passionate about these fields to connect and explore collaboration opportunities!
-
-</section>
 
 <section id="publications" class="section-block" markdown="1">
 
