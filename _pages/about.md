@@ -22,7 +22,7 @@ You can find my CV here: [Jiaqi Wang's CV (CN)](../assets/CV_zn.pdf).
 
 </section>
 
-<section id="research-interests" class="section-block">
+<section id="research-interests" class="section-block" markdown="1">
 
 # 💡 Research Interests
 
@@ -33,7 +33,7 @@ You can find my CV here: [Jiaqi Wang's CV (CN)](../assets/CV_zn.pdf).
 
 </section>
 
-<section id="call-for-collaboration" class="section-block">
+<section id="call-for-collaboration" class="section-block" markdown="1">
 
 # 🤝 Call for Collaboration
 
@@ -41,7 +41,7 @@ I am eager to join forces with researchers in advancing neural network technolog
 
 </section>
 
-<section id="publications" class="section-block">
+<section id="publications" class="section-block" markdown="1">
 
 # 📝 Publications 
 
@@ -87,7 +87,7 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 
 </section>
 
-<section id="academic-service" class="section-block">
+<section id="academic-service" class="section-block" markdown="1">
 
 # 📚 Academic Service
 
@@ -115,7 +115,7 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
 </section>
 
-<section id="open-source-projects" class="section-block">
+<section id="open-source-projects" class="section-block" markdown="1">
 
 # 🔭 Open Source Projects
 
@@ -129,7 +129,7 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 </section>
 
-<section id="education" class="section-block">
+<section id="education" class="section-block" markdown="1">
 
 # 🎓 Education
 
@@ -176,7 +176,7 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 </section>
 
-<section id="work-experience" class="section-block">
+<section id="work-experience" class="section-block" markdown="1">
 
 # 🏢 Work Experience
 
@@ -184,7 +184,7 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 </section>
 
-<section id="awards" class="section-block">
+<section id="awards" class="section-block" markdown="1">
 
 # ⭐ Awards
 
@@ -203,7 +203,7 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 </section>
 
-<section id="highlights" class="section-block">
+<section id="highlights" class="section-block" markdown="1">
 
 # 📸 Highlights
 
