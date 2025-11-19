@@ -35,26 +35,26 @@ I am eager to join forces with researchers in advancing neural network technolog
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;"> AAAI 2026</span>  [
 SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1)),
-   <ins>**Jiaqi Wang**</ins>, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhengyu Ma*, Zhiguo Zhang* <br>
+   <ins>**Jiaqi Wang**</ins>, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhengyu Ma\*, Zhiguo Zhang\* <br>
   **_Accepted by AAAI 2026 (Main Track)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/SpikCommander)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;"> NeurIPS 2025</span> [
 S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://arxiv.org/abs/2508.05164),
-   <ins>**Jiaqi Wang**</ins>, Zhengyu Ma*, Xiongri Shen, Chenlin Zhou, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang* <br>
+   <ins>**Jiaqi Wang**</ins>, Zhengyu Ma\*, Xiongri Shen, Chenlin Zhou, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang\* <br>
   **_ArXiv 2025.08  ➡️ Accepted by NeurIPS 2025 (Main Track)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/S2M-Former) (To be released by the end of 2025.)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Neural Networks</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
-   <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma*, Zhiguo Zhang* <br>
+   <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma\*, Zhiguo Zhang\* <br>
   **_ArXiv 2024.12  ➡️ Accepted by Neural Networks (2025.10)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/SpikeSCR) (To be released by the end of 2025.)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
-   <ins>**Jiaqi Wang**</ins>,  Zhenxi Song*,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang* <br>
+   <ins>**Jiaqi Wang**</ins>,  Zhenxi Song\*,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang\* <br>
   **_ArXiv 2024.02 ➡️ Accepted by ACL 2024 (Main Conference)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/CET-MAE) 
     
  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
-  <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li* <br>
+  <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li\* <br>
   **_Biomedical Signal Processing and Control (BSPC) 2023.01_**
 
  - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">CN Invention Patent</span> [A human-like robot motion system and control method based on human body posture control](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
