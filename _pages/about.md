@@ -15,7 +15,7 @@ redirect_from:
 
 Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology jointly affiliated with the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ) and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), advised by Prof. [Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) and Prof. [Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate).
 
-I received my M.Eng. degree in Communication Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
+I received my M.Eng. degree in Control Science and Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
 
 You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/CV_zn.pdf)**.
 
