@@ -84,11 +84,7 @@ author:
   avatar           : "wjq22.png"
   bio              : "Ph.D. Candidate in HITSZ & PCL"
   location         : "Shenzhen, China"
-  employer: |
-    Spiking Neural Networks  
-    Brain–Computer Interface  
-    Temporal and sequential modeling  
-    Speech and EEG signal decoding
+  employer: 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mhwjq1998@gmail.com"
