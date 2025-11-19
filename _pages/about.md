@@ -109,8 +109,10 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
   <!-- PhD -->
   <div class="edu-item">
-    <img src="../images/logo_hitsz.png" class="edu-logo">
-    <img src="../images/logo_pcl.png" class="edu-logo">
+    <div class="edu-left">
+      <img src="../images/logo_hitsz.png" class="edu-logo">
+      <img src="../images/logo_pcl.png" class="edu-logo">
+    </div>
     <div class="edu-text">
       <strong>Harbin Institute of Technology, Shenzhen (HITSZ) & Pengcheng Laboratory (PCL)</strong>  
       <br> Ph.D. in Computer Science and Technology (Joint Program)  
@@ -120,7 +122,9 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
   <!-- Master -->
   <div class="edu-item">
-    <img src="../images/logo_jlu.png" class="edu-logo">
+    <div class="edu-left">
+      <img src="../images/logo_jlu.png" class="edu-logo">
+    </div>
     <div class="edu-text">
       <strong>Jilin University (JLU)</strong>  
       <br> M.Eng. in Communication Engineering  
@@ -130,7 +134,9 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
   <!-- Bachelor -->
   <div class="edu-item">
-    <img src="../images/logo_neepu.png" class="edu-logo">
+    <div class="edu-left">
+      <img src="../images/logo_neepu.png" class="edu-logo">
+    </div>
     <div class="edu-text">
       <strong>Northeast Electric Power University (NEEPU)</strong>  
       <br> B.Eng. in Automation  
@@ -146,18 +152,28 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
     flex-direction: column;
     gap: 20px;
     margin-top: 20px;
-    margin-bottom: 35px; 
+    margin-bottom: 35px;
   }
+
   .edu-item {
     display: flex;
     align-items: center;
     gap: 15px;
   }
+
+  .edu-left {
+    width: 130px;     
+    display: flex;
+    gap: 10px;
+    justify-content: flex-start;
+  }
+
   .edu-logo {
     width: 55px;
     height: 55px;
     object-fit: contain;
   }
+
   .edu-text {
     font-size: 15px;
     line-height: 1.4;
