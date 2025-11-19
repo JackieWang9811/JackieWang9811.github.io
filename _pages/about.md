@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<section id="about-me" class="section-block" markdown="1">
-
-# 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
+{: #about-me .section-title }
 
 Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology joint-programmed by the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ), and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), now working with Prof.[Zhiguo Zhang](http://faculty.hitsz.edu.cn/zgzhang) & Prof.[Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate). 
 
@@ -20,30 +19,24 @@ You can find my CV here: [Jiaqi Wang's CV (CN)](../assets/CV_zn.pdf).
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /  [Github](https://github.com/JackieWang9811) / [CSDN](https://blog.csdn.net/jq_98) / [Email](mailto:mhwjq1998@gmail.com)
 
-</section>
 
-<section id="research-interests" class="section-block" markdown="1">
-
-# 💡 Research Interests
+## 💡 Research Interests
+{: #research-interests .section-title }
 
 - Spiking Neural Network (SNN)
 - Brain-Computer Interface (BCI)
 - Temporal and Sequential Modeling
 - Speech and Language Models
 
-</section>
 
-<section id="call-for-collaboration" class="section-block" markdown="1">
-
-# 🤝 Call for Collaboration
+## 🤝 Call for Collaboration
+{: #call-for-collaboration .section-title }
 
 I am eager to join forces with researchers in advancing neural network technologies! My focus areas include **Spiking Neural Networks (SNN)**, time series representation learning, and pioneering decoding techniques for **speech and EEG** signals. I warmly welcome colleagues and research teams passionate about these fields to connect and explore collaboration opportunities!
 
-</section>
 
-<section id="publications" class="section-block" markdown="1">
-
-# 📝 Publications 
+## 📝 Publications 
+{: #publications .section-title }
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [
 SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1),
@@ -85,11 +78,9 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">MICCAI 2025</span> [Thread the Needle: Genomics-Guided Prompt-Bridged Attention Model for Survival Prediction of Glioma Based on MRI Images](https://arxiv.org/abs/2410.14971),
 Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
 
-</section>
 
-<section id="academic-service" class="section-block" markdown="1">
-
-# 📚 Academic Service
+## 📚 Academic Service
+{: #academic-service .section-title }
 
 I have experience in reviewing for high-impact AI conferences and journals, including:  
 
@@ -113,11 +104,9 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 - IEEE TIM
 - BSPC
 
-</section>
 
-<section id="open-source-projects" class="section-block" markdown="1">
-
-# 🔭 Open Source Projects
+## 🔭 Open Source Projects
+{: #open-source-projects .section-title }
 
 🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)  (More than 600 stars)  
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
@@ -127,11 +116,9 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
 If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
 
-</section>
 
-<section id="education" class="section-block" markdown="1">
-
-# 🎓 Education
+## 🎓 Education
+{: #education .section-title }
 
 <div class="edu-container">
 
@@ -174,19 +161,15 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 
 </div>
 
-</section>
 
-<section id="work-experience" class="section-block" markdown="1">
-
-# 🏢 Work Experience
+## 🏢 Work Experience
+{: #work-experience .section-title }
 
 - Jun 2022 – Aug 2022, AI Engineer Intern, **Huawei ICT (Optic Line)**, 3D Computer Vision & FTTR
 
-</section>
 
-<section id="awards" class="section-block" markdown="1">
-
-# ⭐ Awards
+## ⭐ Awards
+{: #awards .section-title }
 
 - 2023 **Qianxin Social Scholarship** – **only four awardees in Jilin University**
 - 2023 **Excellent Master Graduate of Jilin University** – Top 6%
@@ -201,11 +184,9 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 - 2019 First-class Scholarship for Outstanding Students of NEEPU
 - 2019 Outstanding Student of NEEPU
 
-</section>
 
-<section id="highlights" class="section-block" markdown="1">
-
-# 📸 Highlights
+## 📸 Highlights
+{: #highlights .section-title }
 
 Here are some moments and highlights of my journey:
 
@@ -216,37 +197,52 @@ Here are some moments and highlights of my journey:
   <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
 </div>
 
-</section>
 
-<section id="visitors" class="section-block section-minimal">
-
-# 🌐 Welcome Visitors
+## 🌐 Welcome Visitors
+{: #visitors .section-title }
 
 <a href="https://clustrmaps.com/site/1c1la" title="Visit tracker">
   <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=lLNo_aaNpQ7KFqBhrFSGp8PbncZ0gy3O4oljQP1rOsk&co=2d78ad&ct=ffffff" />
 </a>
 
-</section>
 
 <style>
-/* 全局区块卡片样式 */
-.section-block {
-  padding: 22px 26px;
-  margin: 28px 0;
-  border-radius: 12px;
-  background: #fafafa;
-  border: 1px solid #e5e5e5;
+/* 整体正文字体风格，接近你截图那种 */
+.page__content {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
 }
 
-/* 访问统计可以稍微淡一点 */
-.section-minimal {
-  background: #ffffff;
+/* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 32px;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
 }
 
-/* 让每个大标题与内容更紧凑一些 */
-.section-block > h1 {
-  margin-top: 0;
-  margin-bottom: 14px;
+/* 右边那条分隔横线 */
+.section-title::after {
+  content: "";
+  flex: 1;
+  margin-left: 12px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* 第一块标题不要太大的上边距 */
+.page__content > .section-title:first-of-type {
+  margin-top: 10px;
+}
+
+/* 列表稍微紧凑一点 */
+.page__content ul {
+  margin-top: 4px;
+  margin-bottom: 8px;
 }
 
 /* Education 布局 */
@@ -295,20 +291,5 @@ Here are some moments and highlights of my journey:
   object-fit: cover;
   border-radius: 10px;
   flex-shrink: 0;
-}
-
-/* 在小屏幕上稍微紧凑一点 */
-@media (max-width: 768px) {
-  .section-block {
-    padding: 18px 18px;
-  }
-  
-  .edu-item {
-    align-items: flex-start;
-  }
-  
-  .edu-left {
-    width: 110px;
-  }
 }
 </style>
