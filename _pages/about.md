@@ -42,7 +42,7 @@ My research mainly focuses on:
 I am passionate about advancing neuromorphic intelligence and decoding technologies for **speech** and **EEG** signals.  
 If you are working on SNNs, BCI decoding, temporal modeling, or efficient neural architectures, I would be very happy to collaborate!
 
-Feel free to reach out via email. 😊
+Please feel free to email me. 😊
 
 
 ## 📝 Publications 
