@@ -82,12 +82,19 @@ analytics:
 author:
   name             : "王嘉琪  Jiaqi Wang" 
   avatar           : "wjq22.png"
-  bio              : "Ph.D. Student @HITSZ & PCL"
+  bio              : "Ph.D. student in Spiking Neural Networks and Brain–Computer Interfaces"
   location         : "Shenzhen, China"
   employer         :
+  research_interests:
+    - Spiking Neural Networks (SNN)
+    - Brain–Computer Interface (BCI)
+    - Temporal and sequential modeling
+    - Speech and EEG signal decoding
+    - Efficient neural architectures
+
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "15567518864@163.com"
+  email            : "mhwjq1998@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
