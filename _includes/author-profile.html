@@ -17,6 +17,17 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+
+    {% if author.research_interests %}
+      <div class="author__interests">
+        <strong>Research Interests</strong>
+        <ul>
+          {% for item in author.research_interests %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
