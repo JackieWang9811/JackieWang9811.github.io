@@ -20,15 +20,11 @@
 
     {% if author.research_interests %}
       <div class="author__interests">
-        <strong>Research Interests</strong>
-        <ul>
-          {% for item in author.research_interests %}
-            <li>{{ item }}</li>
-          {% endfor %}
-        </ul>
+        {% for item in author.research_interests %}
+          <div class="interest-item">{{ item }}</div>
+        {% endfor %}
       </div>
     {% endif %}
-  </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
