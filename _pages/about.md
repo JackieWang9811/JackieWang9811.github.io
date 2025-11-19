@@ -86,8 +86,6 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 - ACM MM 2024
 - ICASSP 2023
 
-
-  
 **Journals:**
 - Invited reviewer for Neuromorphic Computing and Engineering (NCE)
 - IEEE TNSRE
@@ -103,6 +101,66 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
   **A paper list of spiking neural networks, including papers, codes, and related websites.**
 
   If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
+
+# 🎓 Education
+
+<div class="edu-container">
+
+  <!-- PhD -->
+  <div class="edu-item">
+    <img src="../images/logo_hitsz.png" class="edu-logo">
+    <img src="../images/logo_pcl.png" class="edu-logo">
+    <div class="edu-text">
+      <strong>Harbin Institute of Technology, Shenzhen (HITSZ) & Pengcheng Laboratory (PCL)</strong>  
+      <br> Ph.D. in Computer Science and Technology (Joint Program)  
+      <br> 2023 – Present
+    </div>
+  </div>
+
+  <!-- Master -->
+  <div class="edu-item">
+    <img src="../images/logo_jlu.png" class="edu-logo">
+    <div class="edu-text">
+      <strong>Jilin University (JLU)</strong>  
+      <br> M.Eng. in Communication Engineering  
+      <br> 2020 – 2023
+    </div>
+  </div>
+
+  <!-- Bachelor -->
+  <div class="edu-item">
+    <img src="../images/logo_neepu.png" class="edu-logo">
+    <div class="edu-text">
+      <strong>Northeast Electric Power University (NEEPU)</strong>  
+      <br> B.Eng. in Automation  
+      <br> 2016 – 2020
+    </div>
+  </div>
+
+</div>
+
+<style>
+  .edu-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .edu-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  .edu-logo {
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
+  }
+  .edu-text {
+    font-size: 15px;
+    line-height: 1.4;
+  }
+</style>
 
 
 # 🏢 Work Experience
