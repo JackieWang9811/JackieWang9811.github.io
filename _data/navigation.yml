@@ -12,17 +12,17 @@ main:
   - title: "Academic Service"
     url: "/#-review-experience"
 
-  - title: "Open Source Projects"
+  - title: "Projects"
     url: "/#-open-source-projects"
 
   - title: "Education"
     url: "/#-education"
   
-  - title: "Work Experience"
+  - title: "Work"
     url: "/#-work-experience"
 
   - title: "Awards"
     url: "/#-awards"
 
-  - title: "Photo Gallery"
+  - title: "Moments"
     url: "/#-photo-gallery"
