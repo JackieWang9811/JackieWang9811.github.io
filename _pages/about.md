@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
 ## 🙋‍♂️ About Me
 {: #about-me .section-title }
 
@@ -207,9 +209,9 @@ Here are some moments and highlights of my journey:
 
 
 <style>
-/* 整体正文字体风格，接近你截图那种 */
-.page__content {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+/* 整体正文字体风格：优先使用 Inter，其次系统字体 */
+body, .page__content {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif;
   font-size: 15px;
   line-height: 1.7;
