@@ -70,7 +70,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
 
 
-# 📚 Review Experience
+# 📚 Academic Service
 I have experience in reviewing for high-impact AI conferences and journals, including:  
 
 **Conferences:**  
