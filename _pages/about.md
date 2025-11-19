@@ -115,7 +115,7 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
     </div>
     <div class="edu-text">
       <strong>Jilin University (JLU)</strong>  
-      <br> M.Eng. in Communication Engineering  
+      <br> M.Eng. in Control Science and Engineering  
       <br> 2020 – 2023
     </div>
   </div>
