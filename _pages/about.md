@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<section id="about-me" class="section-block">
+<section id="about-me" class="section-block" markdown="1">
 
 # 🙋‍♂️ About Me
 
