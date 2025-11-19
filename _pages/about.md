@@ -81,7 +81,13 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 📖 **Co-authored Publications**
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026 Oral</span> [Spikingformer: A Key Foundation Model for Spiking Neural Networks](https://openreview.net/forum?id=SmZTeHYlCa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
- Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian 
+ Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [BrainCSD: A Hierarchical Consistency-Driven MoE Foundation Model for Unified Connectome Synthesis and Multitask Brain Trait Prediction](https://arxiv.org/abs/2511.05630)),
+ Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Liling Li, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Pattern-Aware Diffusion Synthesis of fMRI/dMRI with Tissue and Microstructural Refinement](https://arxiv.org/abs/2511.04963)),
+ Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation](https://arxiv.org/abs/2410.14971),
  Jilong Li, Zhenxi Song, <ins>**Jiaqi Wang**</ins>, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang
