@@ -90,44 +90,6 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
 
 
-## 📚 Academic Service
-{: #academic-service .section-title }
-
-I have experience in reviewing for high-impact AI conferences and journals, including:  
-
-**Conferences:**  
-
-- Invited reviewer for ACL 2025 ARR (October)
-- Invited reviewer for ICLR 2026 
-- Program Committee for AAAI 2026
-- ACL 2025 ARR (July)
-- ICLR 2025
-- ACL 2025 ARR (Feb)
-- ACL 2025 ARR (May)
-- ICME 2025
-- ACM MM 2024
-- ICASSP 2023
-
-**Journals:**
-
-- Invited reviewer for Neuromorphic Computing and Engineering (NCE)
-- IEEE TNSRE
-- IEEE TIM
-- BSPC
-
-
-## 🔭 Open Source Projects
-{: #open-source-projects .section-title }
-
-🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)  (More than 600 stars)  
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-**A paper list of spiking neural networks, including papers, codes, and related websites.**  
-
-If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
-
-
 ## 🎓 Education
 {: #education .section-title }
 
@@ -171,6 +133,43 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
   </div>
 
 </div>
+
+## 📚 Academic Service
+{: #academic-service .section-title }
+
+I have experience in reviewing for high-impact AI conferences and journals, including:  
+
+**Conferences:**  
+
+- Invited reviewer for ACL 2025 ARR (October)
+- Invited reviewer for ICLR 2026 
+- Program Committee for AAAI 2026
+- ACL 2025 ARR (July)
+- ICLR 2025
+- ACL 2025 ARR (Feb)
+- ACL 2025 ARR (May)
+- ICME 2025
+- ACM MM 2024
+- ICASSP 2023
+
+**Journals:**
+
+- Invited reviewer for Neuromorphic Computing and Engineering (NCE)
+- IEEE TNSRE
+- IEEE TIM
+- BSPC
+
+
+## 🔭 Open Source Projects
+{: #open-source-projects .section-title }
+
+🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)  (More than 600 stars)  
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+**A paper list of spiking neural networks, including papers, codes, and related websites.**  
+
+If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
 
 
 ## 🏢 Work Experience
