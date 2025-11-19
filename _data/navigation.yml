@@ -1,28 +1,27 @@
-   
 main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research"
+  - title: "Research Interests"
     url: "/#research-interests"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Services"
-    url: "/#-review-experience"
+  - title: "Academic Service"
+    url: "/#academic-service"
 
-  - title: "Projects"
-    url: "/#-open-source-projects"
+  - title: "Open Source Projects"
+    url: "/#open-source-projects"
 
   - title: "Education"
-    url: "/#-education"
-  
-  - title: "Work"
-    url: "/#-work-experience"
+    url: "/#education"
+
+  - title: "Work Experience"
+    url: "/#work-experience"
 
   - title: "Awards"
-    url: "/#-awards"
+    url: "/#awards"
 
-  - title: "Moments"
-    url: "/#-photo-gallery"
+  - title: "Highlights"
+    url: "/#highlights"
