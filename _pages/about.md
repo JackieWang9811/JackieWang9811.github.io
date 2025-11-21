@@ -146,7 +146,7 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
 **Conferences:**  
 
-AAAI 2026 (Program Committee); ICLR 2026 (Invited); ACL ARR 2025 (Feb/May/July/Oct); ICME 2026 (Invited); ICLR 2025; ICME 2025; ACM MM 2024; ICASSP 2023.
+AAAI 2026 (Program Committee); ICLR 2026 (Invited); ACL ARR 2025 (Feb/May/July/Oct, Invited); ICME 2026 (Invited); ICLR 2025; ICME 2025; ACM MM 2024; ICASSP 2023.
 
 **Journals:**
 
