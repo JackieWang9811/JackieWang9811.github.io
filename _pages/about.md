@@ -146,24 +146,11 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
 **Conferences:**  
 
-- Invited reviewer for ICME 2026
-- Invited reviewer for ACL 2025 ARR (October)
-- Invited reviewer for ICLR 2026 
-- Program Committee for AAAI 2026
-- ACL 2025 ARR (July)
-- ICLR 2025
-- ACL 2025 ARR (Feb)
-- ACL 2025 ARR (May)
-- ICME 2025
-- ACM MM 2024
-- ICASSP 2023
+AAAI 2026 (Program Committee); ICLR 2026 (Invited); ACL ARR 2025 (Feb/May/July/Oct); ICME 2026 (Invited); ICLR 2025; ICME 2025; ACM MM 2024; ICASSP 2023.
 
 **Journals:**
 
-- Invited reviewer for Neuromorphic Computing and Engineering (NCE)
-- IEEE TNSRE
-- IEEE TIM
-- BSPC
+Neuromorphic Computing and Engineering (NCE); IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control (BSPC)
 
 
 ## 🔭 Open Source Projects
