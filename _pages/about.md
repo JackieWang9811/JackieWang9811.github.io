@@ -23,7 +23,7 @@ You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/CV_zn.pdf)**.
 [Github](https://github.com/JackieWang9811) /
 [CSDN](https://blog.csdn.net/jq_98) /
 
-Email: mhwjq1998@gmail.com; WeChat: JackieWang9811
+**Email**: mhwjq1998@gmail.com; **WeChat**: JackieWang9811
 
 ---
 
