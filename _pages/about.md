@@ -70,7 +70,7 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
   **_ArXiv 2024.02 ➡️ Accepted by ACL 2024 (Main Conference)!_**  
   **Code:** [Link](https://github.com/JackieWang9811/CET-MAE) 
     
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BSPC</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Biomedical Signal Processing and Control</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
   <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Mingyang Li\* <br>
   **_Biomedical Signal Processing and Control (BSPC) 2023.01_**
 
