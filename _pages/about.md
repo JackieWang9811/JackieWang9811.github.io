@@ -30,10 +30,9 @@ You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/CV_zn.pdf)**.
 
 My research mainly focuses on:
 - **Spiking Neural Networks (SNN)**
-- **Brain–Computer Interface (BCI)**
 - **Temporal & Sequential Modeling**
+- **Brain–Computer Interface (BCI)**
 - **Speech and Language Models**
-- Efficient neural architectures and neuromorphic learning paradigms
 
 ---
 
