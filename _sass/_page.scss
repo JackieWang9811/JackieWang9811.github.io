@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0 of 12);
   }
 
   .page__inner-wrap {
@@ -50,14 +50,14 @@
 
 .page__content {
   #about-me{
-    margin-top: 1 em;
+    margin-top: -1em;
       &:before { 
         content: ''; 
         display: block; 
         position: relative; 
         width: 0; 
         height: 10em; 
-        margin-top: 1 em;
+        margin-top: -1em;
     }
   }
   h1 {
