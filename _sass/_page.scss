@@ -50,14 +50,14 @@
 
 .page__content {
   #about-me{
-    margin-top: -1em;
+    margin-top: -5em;
       &:before { 
         content: ''; 
         display: block; 
         position: relative; 
         width: 0; 
         height: 10em; 
-        margin-top: -1em;
+        margin-top: -5em;
     }
   }
   h1 {
