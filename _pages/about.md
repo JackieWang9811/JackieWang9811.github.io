@@ -14,7 +14,7 @@ Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a t
 
 I received my M.Eng. degree in Control Science and Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
 
-You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/CV_zn.pdf)**.
+You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/WJQ_CV_CN.pdf)**.
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /
 [Github](https://github.com/JackieWang9811) /
