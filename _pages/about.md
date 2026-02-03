@@ -194,7 +194,8 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 Here are some moments and highlights of my journey:
 
 <div class="gallery">
-  <img src="../images/AAAI2026-poster.png" alt="Image 6" class="gallery-image">
+  <img src="../images/AAAI2026_1.png" alt="Image 6" class="gallery-image">
+  <img src="../images/AAAI2026_2.png" alt="Image 6" class="gallery-image">
   <img src="../images/Nips-poster.png" alt="Image 5" class="gallery-image">
   <img src="../images/page1.jpg" alt="Image 1" class="gallery-image">
   <img src="../images/page2.jpg" alt="Image 2" class="gallery-image">
