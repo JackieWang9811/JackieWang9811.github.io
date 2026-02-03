@@ -203,12 +203,6 @@ Here are some moments and highlights of my journey:
 </div>
 
 
-## 🌐 Welcome Visitors
-{: #visitors .section-title }
-
-<a href='https://clustrmaps.com/site/1c1la'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=lLNo_aaNpQ7KFqBhrFSGp8PbncZ0gy3O4oljQP1rOsk'/></a>
-
-
 <style>
 /* 整体正文字体风格：优先使用 Inter，其次系统字体 */
 body, .page__content {
