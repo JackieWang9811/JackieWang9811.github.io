@@ -41,6 +41,7 @@ If you are working on SNNs, BCI decoding, temporal modeling, or efficient neural
 
 Please feel free to email me. 😊
 
+**Coming soon:** Three more papers are on the way. Stay tuned!
 
 ## 📝 Publications 
 {: #publications .section-title }
@@ -146,12 +147,11 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 
 **Conferences:**  
 
-AAAI 2026 (Program Committee); ICLR 2026 (Invited); ACL ARR 2025 (Feb/May/July/Oct, Invited); ICME 2026 (Invited); ICLR 2025; ICME 2025; ACM MM 2024; ICASSP 2023.
+NeurIPS 2026; AAAI 2026; ACL ARR 2026/25 (whole year); ICLR 2026/25; ICME 2026/25; ACM MM 2026/24; ICASSP 2026/23.
 
 **Journals:**
 
-Neuromorphic Computing and Engineering (NCE); IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control (BSPC)
-
+IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control, et al.
 
 ## 🔭 Open Source Projects
 {: #open-source-projects .section-title }
