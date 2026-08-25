@@ -1,27 +1,24 @@
 ---
-permalink: /
+permalink: /zh/
 title: ""
-excerpt: "About me"
+excerpt: "关于我"
 author_profile: true
-lang: en
-redirect_from: 
-  - /about/
-  - /about.html
+lang: zh-CN
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 <div id="about-me"></div>
-<nav class="language-switch" aria-label="Language switch">
-  <span>English</span>
-  <a href="/zh/">中文</a>
+<nav class="language-switch" aria-label="语言切换">
+  <a href="/">English</a>
+  <span>中文</span>
 </nav>
 
-Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology jointly affiliated with the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ) and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), advised by Prof. [Zhiguo Zhang](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate) and Prof. [Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate).
+你好！我是**王嘉琪**，英文名 Jackie，目前是[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/)（HITSZ）与[鹏城实验室](https://www.pcl.ac.cn/)（PCL）联合培养的计算机科学与技术专业博士研究生，导师为[张治国教授](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate)和[马铮宇教授](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate)。
 
-I received my M.Eng. degree in Control Science and Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
+我硕士毕业于[吉林大学](https://www.jlu.edu.cn/)控制科学与工程专业，导师为[陈万忠教授](https://dce.jlu.edu.cn/info/1182/9723.htm)。本科毕业于[东北电力大学](http://www.neepu.edu.cn/)自动化专业，导师为沈学强副教授。
 
-You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/WJQ_CV_CN.pdf)**.
+我的中文简历：**[王嘉琪简历（CN）](../assets/WJQ_CV_CN.pdf)**。
 
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /
 [Github](https://github.com/JackieWang9811) /
@@ -31,48 +28,48 @@ You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/WJQ_CV_CN.pdf)**.
 
 ---
 
-### 🔍 Research Interests
+### 🔍 研究方向
 
-My research mainly focuses on:
-- **Spiking Neural Networks (SNN)**
-- **Temporal & Sequential Modeling**
-- **Brain–Computer Interface (BCI)**
-- **Speech and Language Models**
+我的研究主要关注：
+- **脉冲神经网络（SNN）**
+- **时序与序列建模**
+- **脑机接口（BCI）**
+- **语音与语言模型**
 
 ---
 
-### 🤝 Call for Collaboration
+### 🤝 合作交流
 
-I am passionate about advancing brain-inspired intelligence and decoding technologies for **speech** and **neural** signals (EEG, ECG, EMG).  
-If you are working on SNNs, BCI decoding, temporal modeling, or efficient neural architectures, I would be very happy to collaborate!
+我希望推动类脑智能以及**语音**和**神经**信号（EEG、ECG、EMG）解码技术的发展。  
+如果你正在研究 SNN、BCI 解码、时序建模或高效神经网络架构，非常欢迎交流与合作！
 
-Please feel free to email me. 😊
+欢迎通过邮件联系我。😊
 
-**Coming soon:** Three more papers are on the way. Stay tuned!
+**Coming soon:** 还有三篇论文正在路上，敬请期待！
 
-## 📝 Publications 
+## 📝 代表性成果
 {: #publications .section-title }
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [
 SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1),
    <ins>**Jiaqi Wang**</ins>, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhiguo Zhang\*, Zhengyu Ma\*  <br>
-  **_Accepted by AAAI 2026 (Main Track)!_**  
+  **_已被 AAAI 2026 Main Track 接收！_**  
   **Code:** [Link](https://github.com/JackieWang9811/SpikCommander)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [
 S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://arxiv.org/abs/2508.05164),
    <ins>**Jiaqi Wang**</ins>, Zhengyu Ma\*, Xiongri Shen, Chenlin Zhou, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang\* <br>
-  **_ArXiv 2025.08  ➡️ Accepted by NeurIPS 2025 (Main Track)!_**  
+  **_ArXiv 2025.08  ➡️ 已被 NeurIPS 2025 Main Track 接收！_**  
   **Code:** [Link](https://github.com/JackieWang9811/S2M-Former) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Neural Networks</span> [Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation](https://arxiv.org/abs/2412.12858),
    <ins>**Jiaqi Wang**</ins>,  Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma\*, Zhiguo Zhang\* <br>
-  **_ArXiv 2024.12  ➡️ Accepted by Neural Networks (2025.10)!_**  
+  **_ArXiv 2024.12  ➡️ 已被 Neural Networks 接收（2025.10）！_**  
   **Code:** [Link](https://github.com/JackieWang9811/SpikeSCR) 
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span> [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433),
    <ins>**Jiaqi Wang**</ins>,  Zhenxi Song\*,  Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang\* <br>
-  **_ArXiv 2024.02 ➡️ Accepted by ACL 2024 (Main Conference)!_**  
+  **_ArXiv 2024.02 ➡️ 已被 ACL 2024 Main Conference 接收！_**  
   **Code:** [Link](https://github.com/JackieWang9811/CET-MAE) 
     
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Biomedical Signal Processing and Control</span> [A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI](https://www.sciencedirect.com/science/article/pii/S1746809422007066),
@@ -80,9 +77,9 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
   **_Biomedical Signal Processing and Control (BSPC) 2023.01_**
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">CN Invention Patent</span> [A human-like robot motion system and control method based on human body posture control](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0nlgSAA876Br4k7Yiof5ge6un4lKDiSbV1SxF4BaaQuhTiBmtvRHVjHSjjN-2-bNX&uniplatform=NZKPT), <ins>**Jiaqi Wang**</ins>, Wanzhong Chen, Xiao Zheng<br>
-  **_Granted Chinese Invention Patent 2022.08_**
+  **_中国发明专利授权，2022.08_**
 
-📖 **Co-authored Publications**
+📖 **合作论文**
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026 Oral</span> [Spikingformer: A Key Foundation Model for Spiking Neural Networks](https://openreview.net/forum?id=SmZTeHYlCa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
  Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian
@@ -103,116 +100,112 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
 
 
-## 🎓 Education
+## 🎓 教育经历
 {: #education .section-title }
 
 <div class="edu-container">
 
-  <!-- PhD -->
   <div class="edu-item">
     <div class="edu-left">
-      <img src="../images/logo_hitsz.png" class="edu-logo">
-      <img src="../images/logo_pcl.png" class="edu-logo">
+      <img src="../images/logo_hitsz.png" class="edu-logo" alt="HITSZ logo">
+      <img src="../images/logo_pcl.png" class="edu-logo" alt="PCL logo">
     </div>
     <div class="edu-text">
-      <strong>Harbin Institute of Technology, Shenzhen (HITSZ) & Pengcheng Laboratory (PCL)</strong>  
-      <br> Ph.D. in Computer Science and Technology (Joint Program)  
-      <br> 2023 – Present
+      <strong>哈尔滨工业大学（深圳）& 鹏城实验室</strong>  
+      <br> 计算机科学与技术博士研究生（联合培养）  
+      <br> 2023 至今
     </div>
   </div>
 
-  <!-- Master -->
   <div class="edu-item">
     <div class="edu-left">
-      <img src="../images/logo_jlu.png" class="edu-logo">
+      <img src="../images/logo_jlu.png" class="edu-logo" alt="JLU logo">
     </div>
     <div class="edu-text">
-      <strong>Jilin University (JLU)</strong>  
-      <br> M.Eng. in Control Science and Engineering  
-      <br> 2020 – 2023
+      <strong>吉林大学</strong>  
+      <br> 控制科学与工程硕士  
+      <br> 2020 至 2023
     </div>
   </div>
 
-  <!-- Bachelor -->
   <div class="edu-item">
     <div class="edu-left">
-      <img src="../images/logo_neepu.png" class="edu-logo">
+      <img src="../images/logo_neepu.png" class="edu-logo" alt="NEEPU logo">
     </div>
     <div class="edu-text">
-      <strong>Northeast Electric Power University (NEEPU)</strong>  
-      <br> B.Eng. in Automation  
-      <br> 2016 – 2020
+      <strong>东北电力大学</strong>  
+      <br> 自动化学士  
+      <br> 2016 至 2020
     </div>
   </div>
 
 </div>
 
-## 📚 Academic Service
+## 📚 学术服务
 {: #academic-service .section-title }
 
-I have experience in reviewing for high-impact AI conferences and journals, including:  
+我曾担任多个高水平 AI 会议与期刊的审稿人，包括：
 
-**Conferences:**  
+**会议：**  
 
 NeurIPS 2026; AAAI 2026; ACL ARR 2026/25 (whole year); ICLR 2026/25; ICME 2026/25; ACM MM 2026/24; ICASSP 2026/23.
 
-**Journals:**
+**期刊：**
 
 IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control, et al.
 
-## 🔭 Open Source Projects
+## 🔭 开源项目
 {: #open-source-projects .section-title }
 
-🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)  (More than 600 stars)  
+🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)（600+ stars）  
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-**A paper list of spiking neural networks, including papers, codes, and related websites.**  
+**这是一个关于脉冲神经网络的论文列表，包含论文、代码与相关网站。**  
 
-If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
+如果你拥有或发现尚未收录的 SNN 论文，欢迎通过 pull request 补充到该项目中。
 
 
-## 🏢 Work Experience
+## 🏢 工作经历
 {: #work-experience .section-title }
 
-- Jun 2022 – Aug 2022, AI Engineer Intern, **Huawei ICT (Optic Line)**, 3D Computer Vision & FTTR
+- 2022.06 至 2022.08，华为 ICT（Optic Line）AI 工程师实习生，研究方向为 3D 计算机视觉与 FTTR
 
 
-## ⭐ Awards
+## ⭐ 奖励荣誉
 {: #awards .section-title }
 
-- 2023 **Qianxin Social Scholarship** – **only four awardees in Jilin University**
-- 2023 **Excellent Master Graduate of Jilin University** – Top 6%
-- 2022 **National Scholarship for Postgraduates** – Top 6%
-- 2022 2nd Prize of Jilin University Excellent Postgraduate 
-- 2021 2nd Prize of Jilin University Excellent Postgraduate
-- 2021 **Excellent Postgraduate of Jilin University** – Top 4%
-- 2021 3rd Prize of "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling 
-- 2021 Postgraduate Scholarship of Jilin University 
-- 2020 Postgraduate Scholarship of Jilin University
-- 2020 Outstanding Graduate of NEEPU
-- 2019 First-class Scholarship for Outstanding Students of NEEPU
-- 2019 Outstanding Student of NEEPU
+- 2023 奇安信公益奖学金，吉林大学仅 4 人获奖
+- 2023 吉林大学优秀硕士毕业生，Top 6%
+- 2022 研究生国家奖学金，Top 6%
+- 2022 吉林大学优秀研究生二等奖
+- 2021 吉林大学优秀研究生二等奖
+- 2021 吉林大学优秀研究生，Top 4%
+- 2021 “华为杯”第十八届中国研究生数学建模竞赛三等奖
+- 2021 吉林大学研究生学业奖学金
+- 2020 吉林大学研究生学业奖学金
+- 2020 东北电力大学优秀毕业生
+- 2019 东北电力大学优秀学生一等奖学金
+- 2019 东北电力大学优秀学生
 
 
-## 📸 Highlights
+## 📸 高光时刻
 {: #highlights .section-title }
 
-Here are some moments and highlights of my journey:
+这里记录了我科研旅程中的一些片段：
 
 <div class="gallery">
-  <img src="../images/AAAI2026_1.png" alt="Image 6" class="gallery-image">
-  <img src="../images/AAAI2026_2.png" alt="Image 6" class="gallery-image">
-  <img src="../images/Nips-poster.png" alt="Image 5" class="gallery-image">
-  <img src="../images/page1.jpg" alt="Image 1" class="gallery-image">
-  <img src="../images/page2.jpg" alt="Image 2" class="gallery-image">
-  <img src="../images/page3.jpg" alt="Image 3" class="gallery-image">
-  <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
+  <img src="../images/AAAI2026_1.png" alt="AAAI 2026 highlight 1" class="gallery-image">
+  <img src="../images/AAAI2026_2.png" alt="AAAI 2026 highlight 2" class="gallery-image">
+  <img src="../images/Nips-poster.png" alt="NeurIPS poster" class="gallery-image">
+  <img src="../images/page1.jpg" alt="Highlight 1" class="gallery-image">
+  <img src="../images/page2.jpg" alt="Highlight 2" class="gallery-image">
+  <img src="../images/page3.jpg" alt="Highlight 3" class="gallery-image">
+  <img src="../images/page4.jpg" alt="Highlight 4" class="gallery-image">
 </div>
 
 
 <style>
-/* 整体正文字体风格：优先使用 Inter，其次系统字体 */
 body, .page__content {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                "Helvetica Neue", Arial, sans-serif;
@@ -220,18 +213,15 @@ body, .page__content {
   line-height: 1.7;
 }
 
-/* 二级标题样式：左侧 emoji，右侧浅灰分隔线 */
 .section-title {
   font-size: 20px;
   font-weight: 600;
   margin-top: 32px;
   margin-bottom: 10px;
-
   display: flex;
   align-items: center;
 }
 
-/* 右边那条分隔横线 */
 .section-title::after {
   content: "";
   flex: 1;
@@ -239,18 +229,15 @@ body, .page__content {
   border-bottom: 1px solid #e6e6e6;
 }
 
-/* 第一块标题不要太大的上边距 */
 .page__content > .section-title:first-of-type {
   margin-top: 10px;
 }
 
-/* 列表稍微紧凑一点 */
 .page__content ul {
   margin-top: 4px;
   margin-bottom: 8px;
 }
 
-/* Education 布局 */
 .edu-container {
   display: flex;
   flex-direction: column;
@@ -282,7 +269,6 @@ body, .page__content {
   line-height: 1.4;
 }
 
-/* Gallery 布局 */
 .gallery {
   display: flex;
   overflow-x: auto;

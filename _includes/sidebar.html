@@ -26,12 +26,17 @@
       {% endif %}
     {% endif %}
 
-    <!-- ✅ Visitors 放这里：在 sidebar 容器内部 -->
     <div class="sidebar-section">
-      <h3>🌐 Welcome Visitors</h3>
-      <a href="https://clustrmaps.com/site/1c1la" title="Visit tracker">
-        <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=lLNo_aaNpQ7KFqBhrFSGp8PbncZ0gy3O4oljQP1rOsk" alt="Visitors map"/>
+      <h3>{% if page.lang == "zh-CN" %}🌐 访客统计{% else %}🌐 Welcome Visitors{% endif %}</h3>
+      <p class="visitor-widget__legacy">
+        {% if page.lang == "zh-CN" %}历史访问量：2,000+{% else %}Historical visits: 2,000+{% endif %}
+      </p>
+      <a class="visitor-widget" href="https://www.visitorbadge.io/" title="Visitor counter">
+        <img src="https://api.visitorbadge.io/api/VisitorHit?user=JackieWang9811&repo=JackieWang9811.github.io&label=Visitors&labelColor=%23f6f8fa&countColor=%2300369f" alt="Visitors badge">
       </a>
+      <p class="visitor-widget__note">
+        {% if page.lang == "zh-CN" %}由 VisitorBadge 提供{% else %}Powered by VisitorBadge{% endif %}
+      </p>
     </div>
 
   </div>
