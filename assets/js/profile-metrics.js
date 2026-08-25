@@ -1,6 +1,6 @@
 (function () {
   var metricsUrl =
-    "https://raw.githubusercontent.com/JackieWang9811/JackieWang9811.github.io/master/_data/profile_metrics.yml";
+    "https://api.github.com/repos/JackieWang9811/JackieWang9811.github.io/contents/_data/profile_metrics.yml?ref=master";
 
   function parseMetrics(text) {
     return text.split(/\r?\n/).reduce(function (metrics, line) {
@@ -19,12 +19,15 @@
     });
   }
 
-  fetch(metricsUrl + "?t=" + Date.now(), { cache: "no-store" })
+  fetch(metricsUrl, { cache: "no-store" })
     .then(function (response) {
       if (!response.ok) {
         throw new Error("Unable to fetch profile metrics");
       }
-      return response.text();
+      return response.json();
+    })
+    .then(function (payload) {
+      return atob(payload.content.replace(/\s/g, ""));
     })
     .then(parseMetrics)
     .then(function (metrics) {
