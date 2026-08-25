@@ -11,7 +11,7 @@ redirect_from:
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-<div id="about-me"></div>
+<span id="about-me" class="anchor-target"></span>
 <nav class="language-switch" aria-label="Language switch">
   <span>English</span>
   <a href="/zh/">中文</a>
@@ -327,5 +327,12 @@ body, .page__content {
 .language-switch a {
   color: #00369F;
   background: #ffffff;
+}
+
+#about-me.anchor-target {
+  display: block;
+  height: 0;
+  margin-top: 0;
+  scroll-margin-top: 80px;
 }
 </style>

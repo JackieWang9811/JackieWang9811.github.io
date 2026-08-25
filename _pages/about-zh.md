@@ -8,7 +8,7 @@ lang: zh-CN
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-<div id="about-me"></div>
+<span id="about-me" class="anchor-target"></span>
 <nav class="language-switch" aria-label="语言切换">
   <a href="/">English</a>
   <span>中文</span>
@@ -313,5 +313,12 @@ body, .page__content {
 .language-switch a {
   color: #00369F;
   background: #ffffff;
+}
+
+#about-me.anchor-target {
+  display: block;
+  height: 0;
+  margin-top: 0;
+  scroll-margin-top: 80px;
 }
 </style>
