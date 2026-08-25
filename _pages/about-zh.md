@@ -16,7 +16,9 @@ lang: zh-CN
 
 你好！我是**王嘉琪**，英文名 Jackie，目前是[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/)（HITSZ）与[鹏城实验室](https://www.pcl.ac.cn/)（PCL）联合培养的计算机科学与技术专业博士研究生，导师为[张治国教授](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate)和[马铮宇教授](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate)。
 
-我的研究关注类脑智能、脉冲神经网络以及神经/语音信号解码，代表性项目包括 [CET-MAE](https://github.com/JackieWang9811/CET-MAE)、[S^2M-Former](https://github.com/JackieWang9811/S2M-Former)、[SpikeSCR](https://github.com/JackieWang9811/SpikeSCR) 和 [SpikCommander](https://github.com/JackieWang9811/SCommander)。
+我的研究关注类脑智能、脉冲神经网络以及神经/语音信号解码，代表性项目包括 [CET-MAE](https://github.com/JackieWang9811/CET-MAE)、[S<sup>2</sup>M-Former](https://github.com/JackieWang9811/S2M-Former)、[SpikeSCR](https://github.com/JackieWang9811/SpikeSCR) 和 [SpikCommander](https://github.com/JackieWang9811/SCommander)。
+
+我也是 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) 的发起人和第二贡献者。
 
 我硕士毕业于[吉林大学](https://www.jlu.edu.cn/)控制科学与工程专业，导师为[陈万忠教授](https://dce.jlu.edu.cn/info/1182/9723.htm)。本科毕业于[东北电力大学](http://www.neepu.edu.cn/)自动化专业，导师为沈学强副教授。
 
@@ -29,7 +31,7 @@ lang: zh-CN
 
 <script defer src="/assets/js/profile-metrics.js"></script>
 
-**Email**: mhwjq1998@gmail.com; **WeChat**: JackieWang9811
+**Email**: mhwjq1998@gmail.com; **WeChat**: JackieWang9811。欢迎通过邮件联系我。😊
 
 ---
 
@@ -47,8 +49,6 @@ lang: zh-CN
 
 我希望推动类脑智能以及**语音**和**神经**信号（EEG、ECG、EMG）解码技术的发展。  
 如果你正在研究 SNN、BCI 解码、时序建模或高效神经网络架构，非常欢迎交流与合作！
-
-欢迎通过邮件联系我。😊
 
 **Coming soon:** 还有三篇论文正在路上，敬请期待！
 
@@ -156,23 +156,34 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 📖 **合作论文**
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026 Oral</span> [Spikingformer: A Key Foundation Model for Spiking Neural Networks](https://openreview.net/forum?id=SmZTeHYlCa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
- Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Temporal-adaptive Weight Quantization for Spiking Neural Networks](https://arxiv.org/abs/2511.17567),
- Han Zhang, Qingyan Meng, <ins>**Jiaqi Wang**</ins>, Baiyu Chen, Zhengyu Ma, Xiaopeng Fan
+ Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang (5th)**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Information Fusion 2026</span> [BrainCSD: A Hierarchical Consistency-Driven MoE Foundation Model for Unified Connectome Synthesis and Multitask Brain Trait Prediction](https://arxiv.org/abs/2511.05630),
- Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Liling Li, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
+ Xiongri Shen, <ins>**Jiaqi Wang (2nd)**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Liling Li, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Information Fusion 2026</span> [Pattern-Aware Diffusion Synthesis of fMRI/dMRI with Tissue and Microstructural Refinement](https://arxiv.org/abs/2511.04963),
- Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
+ Xiongri Shen, <ins>**Jiaqi Wang (2nd)**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation](https://arxiv.org/abs/2410.14971),
- Jilong Li, Zhenxi Song, <ins>**Jiaqi Wang**</ins>, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang
+ Jilong Li, Zhenxi Song, <ins>**Jiaqi Wang (3rd)**</ins>, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">MICCAI 2025</span> [Thread the Needle: Genomics-Guided Prompt-Bridged Attention Model for Survival Prediction of Glioma Based on MRI Images](https://arxiv.org/abs/2410.14971),
-Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
+Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang (4th)**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Winner-Take-All Spiking Transformer for Language Modeling](https://arxiv.org/abs/2604.11321),
+ Chenlin Zhou, Sihang Guo, <ins>**Jiaqi Wang (3rd)**</ins>, Dongyang Ma, Kaiwei Che, Baiyu Chen, Qingyan Meng, Zhengyu Ma, Yonghong Tian
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [BiSpikCLM: Spiking Large Language Models with Causal Spiking Self-Attention and Spike-Form Knowledge Distillation](https://arxiv.org/abs/2605.13859),
+ Sihang Guo, Chenlin Zhou, <ins>**Jiaqi Wang (3rd)**</ins>, Kehai Chen, Qingyan Meng, Zhengyu Ma
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Adaptive Spiking Neurons for Vision and Language Modeling](https://arxiv.org/abs/2604.12365),
+ Chenlin Zhou, Sihang Guo, <ins>**Jiaqi Wang (3rd)**</ins>, Dongyang Ma, Jin Cheng, Qingyan Meng, Zhengyu Ma, Yonghong Tian
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Brain-Atlas-Guided Generative Counterfactual Attention for Explainable Cognitive Decline Diagnosis Using Multimodal Connectomes](https://arxiv.org/abs/2606.01237),
+ Xiongri Shen, <ins>**Jiaqi Wang (2nd)**</ins>, Zhenxi Song, Yi Zhong, Leilei Zhao, Xin He, Baiying Lei, Zhiguo Zhang
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Temporal-adaptive Weight Quantization for Spiking Neural Networks](https://arxiv.org/abs/2511.17567),
+ Han Zhang, Qingyan Meng, <ins>**Jiaqi Wang (3rd)**</ins>, Baiyu Chen, Zhengyu Ma, Xiaopeng Fan
 
 ## 🎓 教育经历
 {: #education .section-title }
@@ -226,13 +237,11 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 ## 🔭 开源项目
 {: #open-source-projects .section-title }
 
-🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)（600+ stars）  
+🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)（600+ stars）<br>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-**这是一个关于脉冲神经网络的论文列表，包含论文、代码与相关网站。**  
-
-如果你拥有或发现尚未收录的 SNN 论文，欢迎通过 pull request 补充到该项目中。
+我作为该项目发起人与第二贡献者，持续维护这个 SNN 论文、代码与资源列表；欢迎通过 pull request 补充尚未收录的 SNN 论文。
 
 
 ## 🏢 工作经历
@@ -269,6 +278,8 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 这里记录了我科研旅程中的一些片段：
 
 <div class="gallery">
+  <img src="../images/techopenday-2026.jpg" alt="TechOPENDAY 高光时刻" class="gallery-image">
+  <img src="../images/redstar-2026.jpg" alt="REDstar 技术沙龙高光时刻" class="gallery-image">
   <img src="../images/AAAI2026_1.png" alt="AAAI 2026 highlight 1" class="gallery-image">
   <img src="../images/AAAI2026_2.png" alt="AAAI 2026 highlight 2" class="gallery-image">
   <img src="../images/Nips-poster.png" alt="NeurIPS poster" class="gallery-image">
@@ -276,8 +287,6 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
   <img src="../images/page2.jpg" alt="Highlight 2" class="gallery-image">
   <img src="../images/page3.jpg" alt="Highlight 3" class="gallery-image">
   <img src="../images/page4.jpg" alt="Highlight 4" class="gallery-image">
-  <img src="../images/techopenday-2026.jpg" alt="TechOPENDAY 高光时刻" class="gallery-image">
-  <img src="../images/redstar-2026.jpg" alt="REDstar 技术沙龙高光时刻" class="gallery-image">
 </div>
 
 

@@ -19,7 +19,9 @@ redirect_from:
 
 Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a third-year Ph.D. student in Computer Science and Technology jointly affiliated with the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ) and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), advised by Prof. [Zhiguo Zhang](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate) and Prof. [Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate).
 
-I work on brain-inspired intelligence, spiking neural networks, and neural/speech signal decoding, with representative projects including [CET-MAE](https://github.com/JackieWang9811/CET-MAE), [S^2M-Former](https://github.com/JackieWang9811/S2M-Former), [SpikeSCR](https://github.com/JackieWang9811/SpikeSCR), and [SpikCommander](https://github.com/JackieWang9811/SCommander).
+I work on brain-inspired intelligence, spiking neural networks, and neural/speech signal decoding, with representative projects including [CET-MAE](https://github.com/JackieWang9811/CET-MAE), [S<sup>2</sup>M-Former](https://github.com/JackieWang9811/S2M-Former), [SpikeSCR](https://github.com/JackieWang9811/SpikeSCR), and [SpikCommander](https://github.com/JackieWang9811/SCommander).
+
+I also initiated [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) and serve as its second contributor.
 
 I received my M.Eng. degree in Control Science and Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
 
@@ -32,7 +34,7 @@ You can find my CV here: **[Jiaqi Wang’s CV (CN)](../assets/WJQ_CV_CN.pdf)**.
 
 <script defer src="/assets/js/profile-metrics.js"></script>
 
-**Email**: mhwjq1998@gmail.com; **WeChat**: JackieWang9811
+**Email**: mhwjq1998@gmail.com; **WeChat**: JackieWang9811. Please feel free to email me. 😊
 
 ---
 
@@ -50,8 +52,6 @@ My research mainly focuses on:
 
 I am passionate about advancing brain-inspired intelligence and decoding technologies for **speech** and **neural** signals (EEG, ECG, EMG).  
 If you are working on SNNs, BCI decoding, temporal modeling, or efficient neural architectures, I would be very happy to collaborate!
-
-Please feel free to email me. 😊
 
 **Coming soon:** Three more papers are on the way. Stay tuned!
 
@@ -159,23 +159,34 @@ S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attent
 📖 **Co-authored Publications**
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026 Oral</span> [Spikingformer: A Key Foundation Model for Spiking Neural Networks](https://openreview.net/forum?id=SmZTeHYlCa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)),
- Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Temporal-adaptive Weight Quantization for Spiking Neural Networks](https://arxiv.org/abs/2511.17567),
- Han Zhang, Qingyan Meng, <ins>**Jiaqi Wang**</ins>, Baiyu Chen, Zhengyu Ma, Xiaopeng Fan
+ Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, <ins>**Jiaqi Wang (5th)**</ins>, Zhengyu Ma, Huihui Zhou, Yonghong Tian
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Information Fusion 2026</span> [BrainCSD: A Hierarchical Consistency-Driven MoE Foundation Model for Unified Connectome Synthesis and Multitask Brain Trait Prediction](https://arxiv.org/abs/2511.05630),
- Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Liling Li, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
+ Xiongri Shen, <ins>**Jiaqi Wang (2nd)**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Liling Li, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Information Fusion 2026</span> [Pattern-Aware Diffusion Synthesis of fMRI/dMRI with Tissue and Microstructural Refinement](https://arxiv.org/abs/2511.04963),
- Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
+ Xiongri Shen, <ins>**Jiaqi Wang (2nd)**</ins>, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 Findings</span> [BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation](https://arxiv.org/abs/2410.14971),
- Jilong Li, Zhenxi Song, <ins>**Jiaqi Wang**</ins>, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang
+ Jilong Li, Zhenxi Song, <ins>**Jiaqi Wang (3rd)**</ins>, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">MICCAI 2025</span> [Thread the Needle: Genomics-Guided Prompt-Bridged Attention Model for Survival Prediction of Glioma Based on MRI Images](https://arxiv.org/abs/2410.14971),
-Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
+Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang (4th)**</ins>, Leilei Zhao, Zhenxi Song, Zhiguo Zhang
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Winner-Take-All Spiking Transformer for Language Modeling](https://arxiv.org/abs/2604.11321),
+ Chenlin Zhou, Sihang Guo, <ins>**Jiaqi Wang (3rd)**</ins>, Dongyang Ma, Kaiwei Che, Baiyu Chen, Qingyan Meng, Zhengyu Ma, Yonghong Tian
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [BiSpikCLM: Spiking Large Language Models with Causal Spiking Self-Attention and Spike-Form Knowledge Distillation](https://arxiv.org/abs/2605.13859),
+ Sihang Guo, Chenlin Zhou, <ins>**Jiaqi Wang (3rd)**</ins>, Kehai Chen, Qingyan Meng, Zhengyu Ma
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Adaptive Spiking Neurons for Vision and Language Modeling](https://arxiv.org/abs/2604.12365),
+ Chenlin Zhou, Sihang Guo, <ins>**Jiaqi Wang (3rd)**</ins>, Dongyang Ma, Jin Cheng, Qingyan Meng, Zhengyu Ma, Yonghong Tian
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Brain-Atlas-Guided Generative Counterfactual Attention for Explainable Cognitive Decline Diagnosis Using Multimodal Connectomes](https://arxiv.org/abs/2606.01237),
+ Xiongri Shen, <ins>**Jiaqi Wang (2nd)**</ins>, Zhenxi Song, Yi Zhong, Leilei Zhao, Xin He, Baiying Lei, Zhiguo Zhang
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ArXiv</span> [Temporal-adaptive Weight Quantization for Spiking Neural Networks](https://arxiv.org/abs/2511.17567),
+ Han Zhang, Qingyan Meng, <ins>**Jiaqi Wang (3rd)**</ins>, Baiyu Chen, Zhengyu Ma, Xiaopeng Fan
 
 ## 🎓 Education
 {: #education .section-title }
@@ -232,13 +243,11 @@ I have experience in reviewing for high-impact AI conferences and journals, incl
 ## 🔭 Open Source Projects
 {: #open-source-projects .section-title }
 
-🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)  (More than 600 stars)  
+🧠 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) (600+ stars)<br>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-**A paper list of spiking neural networks, including papers, codes, and related websites.**  
-
-If you own or find some overlooked SNN papers, we welcome you to add them to this document by pull request.
+I initiated and maintain this curated SNN paper/code/resource list as the project's second contributor. PRs for missing SNN papers are welcome.
 
 
 ## 🏢 Work Experience
@@ -275,6 +284,8 @@ These academic and industry experiences keep me close to both frontier research 
 Here are some moments and highlights of my journey:
 
 <div class="gallery">
+  <img src="../images/techopenday-2026.jpg" alt="TechOPENDAY highlight" class="gallery-image">
+  <img src="../images/redstar-2026.jpg" alt="REDstar technical salon highlight" class="gallery-image">
   <img src="../images/AAAI2026_1.png" alt="Image 6" class="gallery-image">
   <img src="../images/AAAI2026_2.png" alt="Image 6" class="gallery-image">
   <img src="../images/Nips-poster.png" alt="Image 5" class="gallery-image">
@@ -282,8 +293,6 @@ Here are some moments and highlights of my journey:
   <img src="../images/page2.jpg" alt="Image 2" class="gallery-image">
   <img src="../images/page3.jpg" alt="Image 3" class="gallery-image">
   <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
-  <img src="../images/techopenday-2026.jpg" alt="TechOPENDAY highlight" class="gallery-image">
-  <img src="../images/redstar-2026.jpg" alt="REDstar technical salon highlight" class="gallery-image">
 </div>
 
 
