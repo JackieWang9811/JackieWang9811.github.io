@@ -16,7 +16,7 @@ lang: zh-CN
 
 你好！我是**王嘉琪**，英文名 Jackie，目前是[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/)（HITSZ）与[鹏城实验室](https://www.pcl.ac.cn/)（PCL）联合培养的计算机科学与技术专业博士研究生，导师为[张治国教授](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate)和[马铮宇教授](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate)。
 
-我的研究关注类脑智能、脉冲神经网络以及神经/语音信号解码，代表性项目包括 [CET-MAE](https://github.com/JackieWang9811/CET-MAE)、[S^2M-Former](https://github.com/JackieWang9811/S2M-Former)、[SpikeSCR](https://github.com/JackieWang9811/SpikeSCR) 和 [SpikCommander](https://github.com/JackieWang9811/SpikCommander)。
+我的研究关注类脑智能、脉冲神经网络以及神经/语音信号解码，代表性项目包括 [CET-MAE](https://github.com/JackieWang9811/CET-MAE)、[S^2M-Former](https://github.com/JackieWang9811/S2M-Former)、[SpikeSCR](https://github.com/JackieWang9811/SpikeSCR) 和 [SpikCommander](https://github.com/JackieWang9811/SCommander)。
 
 我硕士毕业于[吉林大学](https://www.jlu.edu.cn/)控制科学与工程专业，导师为[陈万忠教授](https://dce.jlu.edu.cn/info/1182/9723.htm)。本科毕业于[东北电力大学](http://www.neepu.edu.cn/)自动化专业，导师为沈学强副教授。
 
@@ -52,6 +52,75 @@ lang: zh-CN
 
 **Coming soon:** 还有三篇论文正在路上，敬请期待！
 
+## 🌟 代表项目
+{: #featured-projects .section-title }
+
+<div class="project-grid">
+  <article class="project-card">
+    <div class="project-card__top">
+      <span class="project-card__venue">AAAI 2026</span>
+      <span class="project-card__stars">★ <span data-github-stars="JackieWang9811/SCommander">14</span></span>
+    </div>
+    <h3>SpikCommander</h3>
+    <p>面向高效语音命令识别的高性能脉冲 Transformer。</p>
+    <div class="project-card__tags">
+      <span>SNN</span><span>Speech</span><span>Transformer</span>
+    </div>
+    <div class="project-card__links">
+      <a href="https://arxiv.org/abs/2511.07883v1">Paper</a>
+      <a href="https://github.com/JackieWang9811/SCommander">Code</a>
+    </div>
+  </article>
+
+  <article class="project-card">
+    <div class="project-card__top">
+      <span class="project-card__venue">NeurIPS 2025</span>
+      <span class="project-card__stars">★ <span data-github-stars="JackieWang9811/S2M-Former">7</span></span>
+    </div>
+    <h3>S<sup>2</sup>M-Former</h3>
+    <p>用于脑听觉注意检测的脉冲对称混合 Branchformer。</p>
+    <div class="project-card__tags">
+      <span>EEG</span><span>BCI</span><span>Attention</span>
+    </div>
+    <div class="project-card__links">
+      <a href="https://arxiv.org/abs/2508.05164">Paper</a>
+      <a href="https://github.com/JackieWang9811/S2M-Former">Code</a>
+    </div>
+  </article>
+
+  <article class="project-card">
+    <div class="project-card__top">
+      <span class="project-card__venue">Neural Networks</span>
+      <span class="project-card__stars">★ <span data-github-stars="JackieWang9811/SpikeSCR">7</span></span>
+    </div>
+    <h3>SpikeSCR</h3>
+    <p>结合脉冲神经网络与课程蒸馏的高效语音命令识别方法。</p>
+    <div class="project-card__tags">
+      <span>SNN</span><span>Distillation</span><span>Efficient AI</span>
+    </div>
+    <div class="project-card__links">
+      <a href="https://arxiv.org/abs/2412.12858">Paper</a>
+      <a href="https://github.com/JackieWang9811/SpikeSCR">Code</a>
+    </div>
+  </article>
+
+  <article class="project-card">
+    <div class="project-card__top">
+      <span class="project-card__venue">ACL 2024</span>
+      <span class="project-card__stars">★ <span data-github-stars="JackieWang9811/CET-MAE">14</span></span>
+    </div>
+    <h3>CET-MAE</h3>
+    <p>面向 EEG-to-Text 解码的对比式 EEG-文本掩码自编码预训练。</p>
+    <div class="project-card__tags">
+      <span>EEG-to-Text</span><span>MAE</span><span>Representation</span>
+    </div>
+    <div class="project-card__links">
+      <a href="https://arxiv.org/abs/2402.17433">Paper</a>
+      <a href="https://github.com/JackieWang9811/CET-MAE">Code</a>
+    </div>
+  </article>
+</div>
+
 ## 📝 代表性成果
 {: #publications .section-title }
 
@@ -59,7 +128,7 @@ lang: zh-CN
 SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition](https://arxiv.org/abs/2511.07883v1),
    <ins>**Jiaqi Wang**</ins>, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhiguo Zhang\*, Zhengyu Ma\*  <br>
   **_已被 AAAI 2026 Main Track 接收！_**  
-  **Code:** [Link](https://github.com/JackieWang9811/SpikCommander)
+  **Code:** [Link](https://github.com/JackieWang9811/SCommander)
 
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2025</span> [
 S&sup2;M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection](https://arxiv.org/abs/2508.05164),
@@ -274,6 +343,108 @@ body, .page__content {
 .edu-text {
   font-size: 17px;
   line-height: 1.4;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 12px 0 26px;
+}
+
+.project-card {
+  border: 1px solid #e6e9ef;
+  border-radius: 8px;
+  padding: 14px 15px;
+  background: #ffffff;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+}
+
+.project-card__top,
+.project-card__links,
+.project-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.project-card__top {
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.project-card h3 {
+  margin: 0 0 6px;
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.project-card p {
+  min-height: 58px;
+  margin: 0 0 10px;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.project-card__venue,
+.project-card__stars,
+.project-card__tags span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  border-radius: 6px;
+  padding: 1px 8px;
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+.project-card__venue {
+  color: #ffffff;
+  background: #00369F;
+}
+
+.project-card__stars {
+  color: #314155;
+  background: #f3f6fa;
+}
+
+.project-card__tags {
+  margin-bottom: 12px;
+}
+
+.project-card__tags span {
+  color: #4c5b6d;
+  background: #f7f9fb;
+  border: 1px solid #e7ebf0;
+}
+
+.project-card__links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  border: 1px solid #00369F;
+  border-radius: 6px;
+  padding: 2px 10px;
+  color: #00369F;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.project-card__links a:hover {
+  color: #ffffff;
+  background: #00369F;
+}
+
+@media (max-width: 760px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card p {
+    min-height: 0;
+  }
 }
 
 .gallery {

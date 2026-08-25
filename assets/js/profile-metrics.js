@@ -13,9 +13,38 @@
   }
 
   function updateMetric(key, value) {
+    if (!value) {
+      return;
+    }
     var nodes = document.querySelectorAll('[data-profile-metric="' + key + '"]');
     Array.prototype.forEach.call(nodes, function (node) {
       node.textContent = value;
+    });
+  }
+
+  function updateProjectStars() {
+    var starNodes = document.querySelectorAll("[data-github-stars]");
+    Array.prototype.forEach.call(starNodes, function (node) {
+      var repo = node.getAttribute("data-github-stars");
+      if (!repo) {
+        return;
+      }
+
+      fetch("https://api.github.com/repos/" + repo, { cache: "no-store" })
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error("Unable to fetch repository stars");
+          }
+          return response.json();
+        })
+        .then(function (repoInfo) {
+          if (typeof repoInfo.stargazers_count === "number") {
+            node.textContent = repoInfo.stargazers_count.toLocaleString();
+          }
+        })
+        .catch(function () {
+          // Keep the statically rendered fallback value.
+        });
     });
   }
 
@@ -38,4 +67,6 @@
     .catch(function () {
       // Keep the statically rendered fallback values.
     });
+
+  updateProjectStars();
 })();
