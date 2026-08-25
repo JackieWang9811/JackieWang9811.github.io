@@ -213,6 +213,8 @@ Here are some moments and highlights of my journey:
   <img src="../images/page2.jpg" alt="Image 2" class="gallery-image">
   <img src="../images/page3.jpg" alt="Image 3" class="gallery-image">
   <img src="../images/page4.jpg" alt="Image 4" class="gallery-image">
+  <img src="../images/techopenday-2026.jpg" alt="TechOPENDAY highlight" class="gallery-image">
+  <img src="../images/redstar-2026.jpg" alt="REDstar technical salon highlight" class="gallery-image">
 </div>
 
 

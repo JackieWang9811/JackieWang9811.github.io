@@ -207,6 +207,8 @@ IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; 
   <img src="../images/page2.jpg" alt="Highlight 2" class="gallery-image">
   <img src="../images/page3.jpg" alt="Highlight 3" class="gallery-image">
   <img src="../images/page4.jpg" alt="Highlight 4" class="gallery-image">
+  <img src="../images/techopenday-2026.jpg" alt="TechOPENDAY 高光时刻" class="gallery-image">
+  <img src="../images/redstar-2026.jpg" alt="REDstar 技术沙龙高光时刻" class="gallery-image">
 </div>
 
 
