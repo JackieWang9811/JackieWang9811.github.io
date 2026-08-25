@@ -22,6 +22,10 @@ import urllib.request
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "_data" / "profile_metrics.yml"
 GITHUB_USER = "JackieWang9811"
+GITHUB_EXTRA_REPOS = [
+    "TheBrainLab/Awesome-Spiking-Neural-Networks",
+    "TheBrainLab/npuslim",
+]
 SCHOLAR_ID = "jz4IkO0AAAAJ"
 CSDN_USER = "jq_98"
 
@@ -85,6 +89,7 @@ def keep_previous_on_error(name: str, previous: dict[str, str], fetcher) -> str:
 
 def fetch_github_stars() -> str:
     total = 0
+    counted_repos: set[str] = set()
     page = 1
     while True:
         query = urllib.parse.urlencode(
@@ -103,10 +108,32 @@ def fetch_github_stars() -> str:
             repos = json.loads(response.read().decode("utf-8"))
         if not repos:
             break
-        total += sum(int(repo.get("stargazers_count", 0)) for repo in repos)
+        for repo in repos:
+            full_name = repo.get("full_name")
+            if full_name and full_name not in counted_repos:
+                counted_repos.add(full_name)
+                total += int(repo.get("stargazers_count", 0))
         if len(repos) < 100:
             break
         page += 1
+
+    for full_name in GITHUB_EXTRA_REPOS:
+        if full_name in counted_repos:
+            continue
+        url = f"https://api.github.com/repos/{full_name}"
+        request = urllib.request.Request(
+            url,
+            headers={
+                "Accept": "application/vnd.github+json",
+                "User-Agent": "JackieWang9811.github.io metrics updater",
+                "X-GitHub-Api-Version": "2022-11-28",
+            },
+        )
+        with urllib.request.urlopen(request, timeout=25) as response:
+            repo = json.loads(response.read().decode("utf-8"))
+        counted_repos.add(full_name)
+        total += int(repo.get("stargazers_count", 0))
+
     return format_int(total)
 
 
