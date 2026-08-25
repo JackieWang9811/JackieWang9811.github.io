@@ -23,12 +23,10 @@ I work on brain-inspired intelligence, spiking neural networks, and neural/speec
 
 I received my M.Eng. degree in Control Science and Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
 
-You can find my CV here: **[Jiaqi Wang's CV](../assets/Jiaqi_Wang_CV.pdf)**.
-
 {% assign metrics = site.data.profile_metrics %}
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ){% if metrics.google_scholar_citations %} (<span data-profile-metric="google_scholar_citations">{{ metrics.google_scholar_citations }}</span> citations){% endif %} /
 [GitHub](https://github.com/JackieWang9811){% if metrics.github_stars %} (<span data-profile-metric="github_stars">{{ metrics.github_stars }}</span> stars){% endif %} /
-[CSDN](https://blog.csdn.net/jq_98){% if metrics.csdn_views %} (<span data-profile-metric="csdn_views">{{ metrics.csdn_views }}</span> views){% endif %} /
+[CSDN](https://blog.csdn.net/jq_98){% if metrics.csdn_views %} (<span data-profile-metric="csdn_views">{{ metrics.csdn_views }}</span> views){% endif %} / [CV](../assets/Jiaqi_Wang_CV.pdf)
 
 <script defer src="/assets/js/profile-metrics.js"></script>
 

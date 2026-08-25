@@ -20,12 +20,10 @@ lang: zh-CN
 
 我硕士毕业于[吉林大学](https://www.jlu.edu.cn/)控制科学与工程专业，导师为[陈万忠教授](https://dce.jlu.edu.cn/info/1182/9723.htm)。本科毕业于[东北电力大学](http://www.neepu.edu.cn/)自动化专业，导师为沈学强副教授。
 
-我的个人简历：**[王嘉琪简历](../assets/Jiaqi_Wang_CV.pdf)**。
-
 {% assign metrics = site.data.profile_metrics %}
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ){% if metrics.google_scholar_citations %} (<span data-profile-metric="google_scholar_citations">{{ metrics.google_scholar_citations }}</span> 次引用){% endif %} /
 [GitHub](https://github.com/JackieWang9811){% if metrics.github_stars %} (<span data-profile-metric="github_stars">{{ metrics.github_stars }}</span> stars){% endif %} /
-[CSDN](https://blog.csdn.net/jq_98){% if metrics.csdn_views %} (<span data-profile-metric="csdn_views">{{ metrics.csdn_views }}</span> 访问){% endif %} /
+[CSDN](https://blog.csdn.net/jq_98){% if metrics.csdn_views %} (<span data-profile-metric="csdn_views">{{ metrics.csdn_views }}</span> 访问){% endif %} / [CV](../assets/Jiaqi_Wang_CV.pdf)
 
 <script defer src="/assets/js/profile-metrics.js"></script>
 
