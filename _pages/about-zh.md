@@ -20,9 +20,12 @@ lang: zh-CN
 
 我的中文简历：**[王嘉琪简历（CN）](../assets/WJQ_CV_CN.pdf)**。
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ) /
-[Github](https://github.com/JackieWang9811) /
-[CSDN](https://blog.csdn.net/jq_98) /
+{% assign metrics = site.data.profile_metrics %}
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ){% if metrics.google_scholar_citations %} (<span data-profile-metric="google_scholar_citations">{{ metrics.google_scholar_citations }}</span> 次引用){% endif %} /
+[GitHub](https://github.com/JackieWang9811){% if metrics.github_stars %} (<span data-profile-metric="github_stars">{{ metrics.github_stars }}</span> stars){% endif %} /
+[CSDN](https://blog.csdn.net/jq_98){% if metrics.csdn_views %} (<span data-profile-metric="csdn_views">{{ metrics.csdn_views }}</span> 访问){% endif %} /
+
+<script defer src="/assets/js/profile-metrics.js"></script>
 
 **Email**: mhwjq1998@gmail.com; **WeChat**: JackieWang9811
 
