@@ -20,7 +20,7 @@ lang: zh-CN
 
 我硕士毕业于[吉林大学](https://www.jlu.edu.cn/)控制科学与工程专业，导师为[陈万忠教授](https://dce.jlu.edu.cn/info/1182/9723.htm)。本科毕业于[东北电力大学](http://www.neepu.edu.cn/)自动化专业，导师为沈学强副教授。
 
-我的中文简历：**[王嘉琪简历（CN）](../assets/WJQ_CV_CN.pdf)**。
+我的个人简历：**[王嘉琪简历](../assets/Jiaqi_Wang_CV.pdf)**。
 
 {% assign metrics = site.data.profile_metrics %}
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=jz4IkO0AAAAJ){% if metrics.google_scholar_citations %} (<span data-profile-metric="google_scholar_citations">{{ metrics.google_scholar_citations }}</span> 次引用){% endif %} /

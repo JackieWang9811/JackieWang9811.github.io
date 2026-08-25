@@ -1,0 +1,120 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=0.58in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{hyperref}
+
+\definecolor{linkblue}{HTML}{0000AA}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkblue,
+  urlcolor=linkblue
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=*, itemsep=1pt, topsep=1pt, parsep=0pt}
+
+\titleformat{\section}
+  {\normalsize\scshape\bfseries}
+  {}
+  {0pt}
+  {}
+  [\vspace{-3pt}\titlerule]
+\titlespacing*{\section}{0pt}{7pt}{3pt}
+
+\newcommand{\cvname}[1]{\begin{center}{\Huge\bfseries\MakeUppercase{#1}}\end{center}}
+\newcommand{\cvheader}[3]{\begin{center}\href{mailto:#1}{#1} \,|\, \href{#2}{#2}\\[3pt]#3\end{center}}
+\newcommand{\entry}[4]{
+  \textbullet\ \textbf{#1}\hfill #2\\
+  \textit{#3}\hfill #4
+}
+\newcommand{\pub}[4]{
+  \begin{tabularx}{\textwidth}{@{}p{0.64in}X@{}}
+    \textbf{[#1]} & \textbf{#2} \\
+                 & \textit{#3} \\
+                 & #4
+  \end{tabularx}\vspace{2pt}
+}
+\newcommand{\service}[2]{\textbf{#1:} #2}
+
+\begin{document}
+\fontsize{9.7}{10.8}\selectfont
+
+\cvname{Jiaqi Wang}
+\cvheader{mhwjq1998@gmail.com}{https://jackiewang9811.github.io/}{Harbin Institute of Technology (Shenzhen) \& Pengcheng Laboratory}
+
+\section*{Education}
+\entry{Harbin Institute of Technology (Shenzhen) \& Pengcheng Laboratory}{Aug 2023 -- Present}
+{Ph.D. in Computer Science and Technology, Joint Program}{Shenzhen, China}\\
+Advised by Prof. Zhiguo Zhang and Prof. Zhengyu Ma
+\vspace{4pt}
+
+\entry{Jilin University}{Sep 2020 -- Jun 2023}
+{M.Eng. in Control Science and Engineering}{Changchun, China}\\
+Advised by Prof. Wanzhong Chen
+\vspace{4pt}
+
+\entry{Northeast Electric Power University}{Sep 2016 -- Jun 2020}
+{B.Eng. in Automation}{Jilin, China}
+
+\section*{Research Interests}
+Spiking neural networks, brain-inspired intelligence, temporal and sequential modeling, brain-computer interface, neural/speech signal decoding, and speech/language models.
+
+\section*{Selected Projects}
+\textbullet\ \textbf{Awesome Spiking Neural Networks}, initiator and second contributor, \href{https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks}{600+ stars}. A curated SNN paper/code/resource list for the community.\\
+\textbullet\ \textbf{SpikCommander}, \href{https://github.com/JackieWang9811/SCommander}{code}. High-performance spiking Transformer for efficient speech command recognition.\\
+\textbullet\ \textbf{S\textsuperscript{2}M-Former}, \href{https://github.com/JackieWang9811/S2M-Former}{code}. Spiking symmetric mixing Branchformer for brain auditory attention detection.\\
+\textbullet\ \textbf{SpikeSCR}, \href{https://github.com/JackieWang9811/SpikeSCR}{code}. Efficient speech command recognition with SNNs and curriculum distillation.\\
+\textbullet\ \textbf{CET-MAE}, \href{https://github.com/JackieWang9811/CET-MAE}{code}. Contrastive EEG-text masked autoencoder for transferable EEG-to-text decoding representations.
+
+\section*{Publications \hfill \normalfont\small C=Conference, J=Journal, P=Patent}
+\pub{C.1}{SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition}{\textbf{Jiaqi Wang}, Liutao Yu, Xiongri Shen, Sihang Guo, Chenlin Zhou, Leilei Zhao, Yi Zhong, Zhiguo Zhang*, Zhengyu Ma*.}{AAAI 2026 Main Track. \href{https://arxiv.org/abs/2511.07883v1}{Paper} \,|\, \href{https://github.com/JackieWang9811/SCommander}{Code}}
+\pub{C.2}{S\textsuperscript{2}M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection}{\textbf{Jiaqi Wang}, Zhengyu Ma*, Xiongri Shen, Chenlin Zhou, Leilei Zhao, Han Zhang, Yi Zhong, Siqi Cai, Zhenxi Song, Zhiguo Zhang*.}{NeurIPS 2025 Main Track. \href{https://arxiv.org/abs/2508.05164}{Paper} \,|\, \href{https://github.com/JackieWang9811/S2M-Former}{Code}}
+\pub{J.1}{Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation}{\textbf{Jiaqi Wang}, Liutao Yu, Liwei Huang, Chenlin Zhou, Han Zhang, Zhenxi Song, Min Zhang, Zhengyu Ma*, Zhiguo Zhang*.}{Neural Networks, 2025. \href{https://arxiv.org/abs/2412.12858}{Paper} \,|\, \href{https://github.com/JackieWang9811/SpikeSCR}{Code}}
+\pub{C.3}{Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder}{\textbf{Jiaqi Wang}, Zhenxi Song*, Zhengyu Ma, Xipeng Qiu, Min Zhang, Zhiguo Zhang*.}{ACL 2024 Main Conference. \href{https://arxiv.org/abs/2402.17433}{Paper} \,|\, \href{https://github.com/JackieWang9811/CET-MAE}{Code}}
+\pub{J.2}{A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI}{\textbf{Jiaqi Wang}, Wanzhong Chen, Mingyang Li*.}{Biomedical Signal Processing and Control, 2023. \href{https://www.sciencedirect.com/science/article/pii/S1746809422007066}{Paper}}
+\pub{P.1}{A human-like robot motion system and control method based on human body posture control}{\textbf{Jiaqi Wang}, Wanzhong Chen, Xiao Zheng.}{Granted Chinese Invention Patent, 2022. Patent No. ZL202110466880.1.}
+\pub{C.4}{Spikingformer: A Key Foundation Model for Spiking Neural Networks}{Chenlin Zhou, Liutao Yu, Zhaokun Zhou, Han Zhang, \textbf{Jiaqi Wang (5th)}, Zhengyu Ma, Huihui Zhou, Yonghong Tian.}{AAAI 2026 Oral. \href{https://openreview.net/forum?id=SmZTeHYlCa}{Paper}}
+\pub{J.3}{BrainCSD: A Hierarchical Consistency-Driven MoE Foundation Model for Unified Connectome Synthesis and Multitask Brain Trait Prediction}{Xiongri Shen, \textbf{Jiaqi Wang (2nd)}, Yi Zhong, Zhenxi Song, Leilei Zhao, Liling Li, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang.}{Information Fusion, 2026. \href{https://arxiv.org/abs/2511.05630}{Paper}}
+\pub{J.4}{Pattern-Aware Diffusion Synthesis of fMRI/dMRI with Tissue and Microstructural Refinement}{Xiongri Shen, \textbf{Jiaqi Wang (2nd)}, Yi Zhong, Zhenxi Song, Leilei Zhao, Yichen Wei, Lingyan Liang, Shuqiang Wang, Baiying Lei, Demao Deng, Zhiguo Zhang.}{Information Fusion, 2026. \href{https://arxiv.org/abs/2511.04963}{Paper}}
+\pub{C.5}{BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction for Whisper-Enhanced Text Generation}{Jilong Li, Zhenxi Song, \textbf{Jiaqi Wang (3rd)}, Meishan Zhang, Honghai Liu, Min Zhang, Zhiguo Zhang.}{ACL 2025 Findings. \href{https://arxiv.org/abs/2410.14971}{Paper}}
+\pub{C.6}{Thread the Needle: Genomics-Guided Prompt-Bridged Attention Model for Survival Prediction of Glioma Based on MRI Images}{Yi Zhong, Xubin Zheng, Xiongri Shen, \textbf{Jiaqi Wang (4th)}, Leilei Zhao, Zhenxi Song, Zhiguo Zhang.}{MICCAI 2025.}
+
+\section*{Preprints}
+\textbullet\ Winner-Take-All Spiking Transformer for Language Modeling. Chenlin Zhou, Sihang Guo, \textbf{Jiaqi Wang (3rd)}, et al. \href{https://arxiv.org/abs/2604.11321}{arXiv}.\\
+\textbullet\ BiSpikCLM: Spiking Large Language Models with Causal Spiking Self-Attention and Spike-Form Knowledge Distillation. Sihang Guo, Chenlin Zhou, \textbf{Jiaqi Wang (3rd)}, et al. \href{https://arxiv.org/abs/2605.13859}{arXiv}.\\
+\textbullet\ Adaptive Spiking Neurons for Vision and Language Modeling. Chenlin Zhou, Sihang Guo, \textbf{Jiaqi Wang (3rd)}, et al. \href{https://arxiv.org/abs/2604.12365}{arXiv}.\\
+\textbullet\ Brain-Atlas-Guided Generative Counterfactual Attention for Explainable Cognitive Decline Diagnosis Using Multimodal Connectomes. Xiongri Shen, \textbf{Jiaqi Wang (2nd)}, et al. \href{https://arxiv.org/abs/2606.01237}{arXiv}.\\
+\textbullet\ Temporal-adaptive Weight Quantization for Spiking Neural Networks. Han Zhang, Qingyan Meng, \textbf{Jiaqi Wang (3rd)}, Baiyu Chen, Zhengyu Ma, Xiaopeng Fan. \href{https://arxiv.org/abs/2511.17567}{arXiv}.
+
+\section*{Experience}
+\textbullet\ \textbf{Selected Industry Research Experience}\hfill 2026\\
+Large-scale AI systems and real-world product scenarios.\\
+\textbullet\ \textbf{AI Engineer Intern, Huawei ICT (Optic Line)}\hfill Jun 2022 -- Aug 2022\\
+Worked on 3D computer vision, FTTR-related system development, and point-cloud processing.
+
+\section*{Honors and Awards}
+\begin{itemize}
+  \item Invited participant, Xiaohongshu REDstar Top Talent Program Technical Salon, 2026
+  \item Invited participant, Taobao/Taotian Star Program, 2026
+  \item Qianxin Social Scholarship, only four awardees in Jilin University, 2023
+  \item Excellent Master Graduate of Jilin University, Top 6\%, 2023
+  \item National Scholarship for Postgraduates, Top 6\%, 2022
+  \item Excellent Postgraduate of Jilin University, Top 4\%, 2021
+  \item Third Prize, ``Huawei Cup'' China Post-Graduate Mathematical Contest in Modeling, 2021
+  \item Outstanding Graduate of Northeast Electric Power University, 2020
+\end{itemize}
+
+\section*{Academic Services}
+\service{Conference Reviewer}{AAAI 2027; NeurIPS 2026; AAAI 2026; ACL ARR 2025--2026; ICLR 2025--2026; ICME 2025--2026; ACM MM 2024/2026; ICASSP 2023/2026.}\\
+\service{Journal Reviewer}{IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control.}
+
+\end{document}
