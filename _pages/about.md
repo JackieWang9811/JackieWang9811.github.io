@@ -155,15 +155,10 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 ## 📚 Academic Service
 {: #academic-service .section-title }
 
-I have experience in reviewing for high-impact AI conferences and journals, including:  
+I have experience in reviewing for high-impact AI conferences and journals, including:
 
-**Conferences:**  
-
-NeurIPS 2026; AAAI 2026; ACL ARR 2026/25 (whole year); ICLR 2026/25; ICME 2026/25; ACM MM 2026/24; ICASSP 2026/23.
-
-**Journals:**
-
-IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control, et al.
+**Conferences:** AAAI 2027; NeurIPS 2026; AAAI 2026; ACL ARR 2026/25 (whole year); ICLR 2026/25; ICME 2026/25; ACM MM 2026/24; ICASSP 2026/23.<br>
+**Journals:** IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control, et al.
 
 ## 🔭 Open Source Projects
 {: #open-source-projects .section-title }
@@ -180,12 +175,15 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 ## 🏢 Work Experience
 {: #work-experience .section-title }
 
+- Selected industry research experience in large-scale AI systems and real-world product scenarios
 - Jun 2022 – Aug 2022, AI Engineer Intern, **Huawei ICT (Optic Line)**, 3D Computer Vision & FTTR
 
 
 ## ⭐ Awards
 {: #awards .section-title }
 
+- 2026 Invited participant, **Xiaohongshu REDstar Top Talent Program Technical Salon**
+- 2026 Invited participant, **Taobao/Taotian Star Program**
 - 2023 **Qianxin Social Scholarship** – **only four awardees in Jilin University**
 - 2023 **Excellent Master Graduate of Jilin University** – Top 6%
 - 2022 **National Scholarship for Postgraduates** – Top 6%
@@ -198,6 +196,8 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 - 2020 Outstanding Graduate of NEEPU
 - 2019 First-class Scholarship for Outstanding Students of NEEPU
 - 2019 Outstanding Student of NEEPU
+
+These academic and industry experiences keep me close to both frontier research and real-world AI innovation.
 
 
 ## 📸 Highlights

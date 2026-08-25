@@ -151,13 +151,8 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 
 我曾担任多个高水平 AI 会议与期刊的审稿人，包括：
 
-**会议：**  
-
-NeurIPS 2026; AAAI 2026; ACL ARR 2026/25 (whole year); ICLR 2026/25; ICME 2026/25; ACM MM 2026/24; ICASSP 2026/23.
-
-**期刊：**
-
-IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control, et al.
+**会议：** AAAI 2027; NeurIPS 2026; AAAI 2026; ACL ARR 2026/25（全年）; ICLR 2026/25; ICME 2026/25; ACM MM 2026/24; ICASSP 2026/23。<br>
+**期刊：** IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; IEEE TIM; Biomedical Signal Processing and Control, et al.
 
 ## 🔭 开源项目
 {: #open-source-projects .section-title }
@@ -174,12 +169,15 @@ IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; 
 ## 🏢 工作经历
 {: #work-experience .section-title }
 
+- 产业界大规模 AI 系统与真实产品场景相关研究经历
 - 2022.06 至 2022.08，华为 ICT（Optic Line）AI 工程师实习生，研究方向为 3D 计算机视觉与 FTTR
 
 
 ## ⭐ 奖励荣誉
 {: #awards .section-title }
 
+- 2026 受邀参加**小红书 REDstar 顶尖人才计划技术沙龙**
+- 2026 受邀参加**淘宝/淘天 Star 计划**
 - 2023 奇安信公益奖学金，吉林大学仅 4 人获奖
 - 2023 吉林大学优秀硕士毕业生，Top 6%
 - 2022 研究生国家奖学金，Top 6%
@@ -192,6 +190,8 @@ IEEE TCSVT; Neurocomputing; Neuromorphic Computing and Engineering; IEEE TNSRE; 
 - 2020 东北电力大学优秀毕业生
 - 2019 东北电力大学优秀学生一等奖学金
 - 2019 东北电力大学优秀学生
+
+这些学术与产业经历让我持续连接前沿研究、真实场景与技术创新。
 
 
 ## 📸 高光时刻
