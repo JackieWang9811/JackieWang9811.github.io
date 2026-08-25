@@ -169,7 +169,7 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang**</ins>, Leilei Zhao, Zhe
 ## 🏢 工作经历
 {: #work-experience .section-title }
 
-- 产业界大规模 AI 系统与真实产品场景相关研究经历
+- 近期持续参与产业界大规模 AI 系统与真实产品场景相关研究
 - 2022.06 至 2022.08，华为 ICT（Optic Line）AI 工程师实习生，研究方向为 3D 计算机视觉与 FTTR
 
 

@@ -175,7 +175,7 @@ If you own or find some overlooked SNN papers, we welcome you to add them to thi
 ## 🏢 Work Experience
 {: #work-experience .section-title }
 
-- Selected industry research experience in large-scale AI systems and real-world product scenarios
+- Ongoing selected industry research experience in large-scale AI systems and real-world product scenarios
 - Jun 2022 – Aug 2022, AI Engineer Intern, **Huawei ICT (Optic Line)**, 3D Computer Vision & FTTR
 
 
