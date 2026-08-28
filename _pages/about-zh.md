@@ -16,7 +16,7 @@ lang: zh-CN
 
 你好！我是**王嘉琪**，英文名 Jackie，目前是[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/)（HITSZ）与[鹏城实验室](https://www.pcl.ac.cn/)（PCL）联合培养的计算机科学与技术专业博士研究生，导师为[张治国教授](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate)和[马铮宇教授](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate)。
 
-我的研究关注类脑智能、脉冲神经网络以及神经/语音信号解码，代表性项目包括 [CET-MAE](https://github.com/JackieWang9811/CET-MAE)、[S<sup>2</sup>M-Former](https://github.com/JackieWang9811/S2M-Former)、[SpikeSCR](https://github.com/JackieWang9811/SpikeSCR) 和 [SpikCommander](https://github.com/JackieWang9811/SCommander)。我也是 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) 的发起人和第二贡献者。
+我的研究关注类脑智能，尤其是面向端侧、轻量级、低功耗场景的神经网络模型，例如脉冲神经网络，以及它们在时序建模中的应用，包括语言认知、听觉认知和神经/语音信号解码。近期，我的研究也延伸到产业界大规模推荐系统中的序列建模。代表性项目包括 [CET-MAE](https://github.com/JackieWang9811/CET-MAE)、[S<sup>2</sup>M-Former](https://github.com/JackieWang9811/S2M-Former)、[SpikeSCR](https://github.com/JackieWang9811/SpikeSCR) 和 [SpikCommander](https://github.com/JackieWang9811/SCommander)。我也是 [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) 的发起人和第二贡献者。
 
 我硕士毕业于[吉林大学](https://www.jlu.edu.cn/)控制科学与工程专业，导师为[陈万忠教授](https://dce.jlu.edu.cn/info/1182/9723.htm)。本科毕业于[东北电力大学](http://www.neepu.edu.cn/)自动化专业，导师为沈学强副教授。
 
