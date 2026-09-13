@@ -37,17 +37,17 @@ I received my M.Eng. degree in Control Science and Engineering from [Jilin Unive
 ### 🔍 Research Interests
 
 My research mainly focuses on:
-- **Spiking Neural Networks (SNN)**
-- **Temporal & Sequential Modeling**
-- **Brain–Computer Interface (BCI)**
-- **Speech and Language Models**
+- **Brain-inspired Computing**, with a focus on **Spiking Neural Networks (SNN)**
+- **Temporal & Sequential Modeling**, especially for cognition-inspired and recommendation scenarios
+- **Efficient Speech and Language Models for Edge AI**, targeting lightweight, low-power, and high-performance networks
+- **Neural/Speech Signal Decoding**, including EEG, ECG, EMG, and auditory attention/cognition
 
 ---
 
 ### 🤝 Call for Collaboration
 
-I am passionate about advancing brain-inspired intelligence and decoding technologies for **speech** and **neural** signals (EEG, ECG, EMG).  
-If you are working on SNNs, BCI decoding, temporal modeling, or efficient neural architectures, I would be very happy to collaborate!
+I am passionate about building efficient, deployable AI systems that connect brain-inspired models, temporal sequence modeling, and neural/speech signal understanding.<br>
+If you are working on SNNs, edge AI, recommendation sequence modeling, BCI decoding, or efficient speech/language architectures, I would be very happy to collaborate!
 
 **Coming soon:** Three more papers are on the way. Stay tuned!
 
