@@ -256,6 +256,7 @@ I initiated and maintain this curated SNN paper/code/resource list as the projec
 ## ⭐ Awards
 {: #awards .section-title }
 
+- 2026 Invited participant, **Xiaomi "Top Talent" Project Group Shenzhen Technical Salon**
 - 2026 Invited participant, **Xiaohongshu REDstar Top Talent Program Technical Salon**
 - 2026 Invited participant, **Taobao/Taotian Star Program**
 - 2023 **Qianxin Social Scholarship** – **only four awardees in Jilin University**

@@ -250,6 +250,7 @@ Yi Zhong, Xubin Zheng, Xiongri Shen, <ins>**Jiaqi Wang (4th)**</ins>, Leilei Zha
 ## ⭐ 奖励荣誉
 {: #awards .section-title }
 
+- 2026 受邀参加**小米“顶尖”人才项目组深圳技术沙龙**
 - 2026 受邀参加**小红书 REDstar 顶尖人才计划技术沙龙**
 - 2026 受邀参加**淘宝/淘天 Star 计划**
 - 2023 奇安信公益奖学金，吉林大学仅 4 人获奖
