@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm **Jiaqi Wang**. You can call me Jackie, which sounds like Jiaqi. I'm a last-year Ph.D. student in Computer Science and Technology jointly affiliated with the [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) (HITSZ) and the [Pengcheng Laboratory](https://www.pcl.ac.cn/) (PCL), advised by Prof. [Zhiguo Zhang](https://scholar.google.com/citations?hl=en&user=DAtNH6EAAAAJ&view_op=list_works&sortby=pubdate) and Prof. [Zhengyu Ma](https://scholar.google.com/citations?hl=en&user=21SR930AAAAJ&view_op=list_works&sortby=pubdate).
 
-My research focuses on brain-inspired intelligence, especially on-device, lightweight, and low-power neural models such as spiking neural networks, and their applications in temporal modeling, including language cognition, auditory cognition, and neural/speech signal decoding. More recently, my work has also extended to sequence modeling for large-scale recommendation systems in industry. Representative projects include [CET-MAE](https://github.com/JackieWang9811/CET-MAE), [S<sup>2</sup>M-Former](https://github.com/JackieWang9811/S2M-Former), [SpikeSCR](https://github.com/JackieWang9811/SpikeSCR), and [SpikCommander](https://github.com/JackieWang9811/SCommander). I also initiated [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) (<span data-github-stars="zhouchenlin2096/Awesome-Spiking-Neural-Networks">823</span> stars) and serve as its second contributor.
+My research focuses on brain-inspired intelligence, especially on-device, lightweight, and low-power neural models such as spiking neural networks, and their applications in temporal modeling, including language cognition, auditory cognition, and neural/speech signal decoding. More recently, my internship at **ByteDance** has extended my work to sequence modeling for large-scale recommendation systems. Representative projects include [CET-MAE](https://github.com/JackieWang9811/CET-MAE), [S<sup>2</sup>M-Former](https://github.com/JackieWang9811/S2M-Former), [SpikeSCR](https://github.com/JackieWang9811/SpikeSCR), and [SpikCommander](https://github.com/JackieWang9811/SCommander). I also initiated [Awesome Spiking Neural Networks](https://github.com/zhouchenlin2096/Awesome-Spiking-Neural-Networks) (<span data-github-stars="zhouchenlin2096/Awesome-Spiking-Neural-Networks">823</span> stars) and serve as its second contributor.
 
 I received my M.Eng. degree in Control Science and Engineering from [Jilin University](https://www.jlu.edu.cn/) (JLU), where I worked with Prof. [Wanzhong Chen](https://dce.jlu.edu.cn/info/1182/9723.htm). I obtained my B.Eng. degree in Automation from [Northeast Electric Power University](http://www.neepu.edu.cn/) (NEEPU) under the supervision of Associate Prof. Xueqiang Shen.
 
@@ -249,7 +249,7 @@ I initiated and maintain this curated SNN paper/code/resource list as the projec
 ## 🏢 Work Experience
 {: #work-experience .section-title }
 
-- Ongoing selected industry research experience in large-scale AI systems and real-world product scenarios
+- Intern, **ByteDance**, focusing on sequence modeling for large-scale recommendation systems
 - Jun 2022 – Aug 2022, AI Engineer Intern, **Huawei ICT (Optic Line)**, 3D Computer Vision & FTTR
 
 
